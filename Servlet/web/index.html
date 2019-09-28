@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Form Test</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/js/materialize.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('select').material_select();
+        });
+    </script>
+</head>
+
+<body onload="javascript">
+<form method="POST" action="http://localhost:8080/Servlet_war_exploded/Echo">
+    Questionnaire:<br/>
+
+    <fieldset>
+        <legend>User Profile</legend>
+
+        Account:<input type="text" name="account"> <br/>
+        Password:<input type="password" name="password" minlength="8"> <br/>
+        Email:<input type="email" name="email"> <br/>
+
+        Age:<br/>
+        <label>
+            <input type="radio" name="age" value="<=20" checked/>
+            <span><=20</span> </label> <label>
+        <input type="radio" name="age" value="21~30"/>
+        <span>21~30</span>
+    </label>
+        <label>
+            <input type="radio" name="age" value="31~40"/>
+            <span>31~40</span>
+        </label>
+        <label>
+            <input type="radio" name="age" value="41~50"/>
+            <span>41~50</span>
+        </label>
+        <label>
+            <input type="radio" name="age" value=">50"/>
+            <span>>50</span>
+        </label>
+    </fieldset>
+
+    <fieldset>
+        <legend>Using Problem</legend>
+
+        Phone:
+        <label>
+            <input type="checkbox" name="phone" value="iPhone" checked="checked"/>
+            <span>iPhone</span>
+        </label>
+        <label>
+            <input type="checkbox" name="phone" value="Android"/>
+            <span>Android</span>
+        </label>
+        <label>
+            <input type="checkbox" name="phone" value="Windows Phone"/>
+            <span>Windows Phone</span>
+        </label>
+        <br/>
+
+        Mobile:
+        <select name="mobile">
+            <option value="" disabled selected>Choose your mobile</option>
+            <option value="CHT" selected>中華電信
+            <option value="TWN">台灣大哥大
+            <option value="FETnet">遠傳
+            <option value="TSTAR">台灣之星
+        </select>
+
+        Using Problem:
+        <textarea name="usingProblem" style="height: 100px;"></textarea>
+
+        <input type="submit" value="Submit" class="btn waves-light">
+        <input type="reset" value="Reset" class="btn waves-light">
+    </fieldset>
+</form>
+</body>
+
+</html>
