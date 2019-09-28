@@ -1,0 +1,2600 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<base href="/">
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=1000" />
+<meta name="title" content="Mobile01" />
+<meta name="description" content="Mobile01是台灣最大生活網站與論壇，報導範疇從汽車到手機，從機車到居家裝潢，還有相機、運動、時尚、房地產、投資、影音、電腦等領域，集合最多精彩開箱文與評測推薦，是優質分享文的大本營、上班族話題集散地，並提供免費市集與旅遊資訊。" />
+<meta name="robots" content="index,follow" />
+<meta property="og:locale" content="zh_TW" />
+<meta property="og:title" content="Mobile01" />
+<meta property="og:description" content="Mobile01是台灣最大生活網站與論壇，報導範疇從汽車到手機，從機車到居家裝潢，還有相機、運動、時尚、房地產、投資、影音、電腦等領域，集合最多精彩開箱文與評測推薦，是優質分享文的大本營、上班族話題集散地，並提供免費市集與旅遊資訊。" />
+<meta property="og:image" content="https://attach2.mobile01.com/images/mobile01-default.jpg" />
+<meta itemprop="name" content="Mobile01">
+<meta itemprop="image" content="https://attach2.mobile01.com/images/mobile01-default.jpg">
+<meta itemprop="description" content="Mobile01是台灣最大生活網站與論壇，報導範疇從汽車到手機，從機車到居家裝潢，還有相機、運動、時尚、房地產、投資、影音、電腦等領域，集合最多精彩開箱文與評測推薦，是優質分享文的大本營、上班族話題集散地，並提供免費市集與旅遊資訊。">
+<meta property="fb:admins" content="100000081762620" />
+<meta property="fb:app_id" content="1548610928687358" />
+<meta name="application-name" content="Mobile01"/>
+<meta name="msapplication-TileColor" content="#bbcfbb"/>
+<meta name="msapplication-TileImage" content="883a216f-6cd1-4a79-ba28-06208b044c96.png" />
+<meta name="apple-itunes-app" content="app-id=444909583, affiliate-data=ct=01smartbanner&pt=316151, app-argument=m01://index">
+<meta name="google-play-app" content="app-id=com.google.android.forum">
+<meta name="google-site-verification" content="nDf-WQwv-upyD5SpyEpd5U7vlMS6WaWvR30MFdKLHwY" />
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<title>Mobile01</title>
+<link rel="preload" href="//attach2.mobile01.com/image/news/159a2aab5022877255e2fb96f77605e3.jpg" as="image">
+<link rel="dns-prefetch" href="//ajax.googleapis.com" />
+<link rel="dns-prefetch" href="//www.googletagservices.com" />
+<link rel="dns-prefetch" href="//ssl.google-analytics.com" />
+<link rel="dns-prefetch" href="//www.google-analytics.com" />
+<link rel="dns-prefetch" href="//d31qbv1cthcecs.cloudfront.net" />
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com" />
+<link rel="dns-prefetch" href="//unpkg.com" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="60x60" href="apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="76x76" href="apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="120x120" href="apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="152x152" href="apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon-180x180.png">
+<link rel="stylesheet" type="text/css" href="//attach2.mobile01.com/css/style.css?v=1491900201" media="screen" />
+<link rel="stylesheet" type="text/css" href="//attach2.mobile01.com/css/style-fm.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css">
+<link rel="canonical" href="https://www.mobile01.com/index.php">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.mobile01.com/index.php">
+<link rel="alternate" type="application/rss+xml" title="新聞 - RSS" href="https://www.mobile01.com/rss/news.xml" />
+<link rel="stylesheet" type="text/css" href="//attach2.mobile01.com/css/colorbox.css" media="screen" />
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="//attach2.mobile01.com/css/ie.css" media="screen" />
+<![endif]-->
+<style type="text/css">
+#index-category .category a.group, #index-category .category a.group:link {
+    padding:5px 5px 5px 5px;
+}
+#index-category .category a.group img {
+    float:none;
+}
+#index-category .category a.group h3 {
+    height:40px;
+    font-size:15px;
+    line-height:20px;
+    padding-top:3px;
+    padding-bottom:2px;
+    white-space:normal;
+    text-overflow:ellipsis;
+    overflow:hidden;
+    cursor:pointer;
+    display:-webkit-box;
+    -webkit-line-clamp:2;
+    -webkit-box-orient:vertical;
+}
+div#content.group div#index-category.group div.category div.row.group div.item a.group {
+    width:246px;
+    height:283px;
+}
+#index-category .category p {
+    display:block;
+    display:-webkit-box;
+    width:246px;
+    height:54px;
+    font-size:12px;
+    line-height:18px;
+    -webkit-line-clamp:3;
+    -webkit-box-orient:vertical;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+#index-category .item {
+    width:249px;
+    float:left;
+    clear:none;
+    margin:-6px 0 12px 6px;
+}
+.category-bar {
+    display:block;
+    line-height:20px;
+    padding:5px 0px 5px 10px;
+    background:white;
+    z-index:30;
+    margin-bottom:5px;
+    letter-spacing:0.1em;
+    margin-top:5px;
+    position: relative;
+}
+.category-bar a {
+    color:#333;
+    font-size:15px;
+    text-decoration:none;
+}
+.category-bar a:hover {
+    color:#a00;
+    text-decoration:underline;
+    cursor:pointer;
+}
+.category-bar .more-btn {
+    color:#6f7b8a;
+    right: 10px;
+    position: absolute;
+}
+#headline a h2 {
+    border-style:solid;
+    border-color:#333333;
+    border-width:5px 10px;
+    padding:0px;
+    max-height:40px;
+    display:-webkit-box;
+    -webkit-line-clamp:2;
+    -webkit-box-orient:vertical;
+    text-overflow:ellipsis;
+    overflow:hidden;
+}
+#headline a:hover h2 {
+    border-color:#567556;
+}
+/* slick */
+.slick-prev,
+.slick-next{
+    position: absolute;
+    top: 35%;
+    cursor: pointer;
+    width: 42px;
+    height: 42px;
+}
+.slider{
+    margin-left: 6px;
+    margin-right: 6px;
+}
+.slider .item {
+    margin-left:0px !important;
+    margin-right:6px !important;
+}
+.slick-next {
+    right: 10px;
+}
+.slick-prev {
+    left: 10px;
+    z-index: 10000;
+}
+/*smart banner*/
+#smbScrolling {
+    position: fixed;
+    bottom: 13px;
+    z-index: 10000;
+    width: 100%;
+}
+.smbScrolling-content {
+    background-color: rgb(0, 166, 81);
+    border-radius: 8px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: transparent;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 6px 13px;
+    width: 237px;
+    font-size: 1.45em;
+    margin: 0px auto;
+}
+.smbScrolling-content a {
+    color: rgb(255, 255, 255);
+}
+#smbScrolling .close-img {
+    width: 12px;
+    height: 12px;
+    margin-left: 8px;
+    margin-top: -3px;
+}
+.hide {
+    display: none;
+}
+.slideText {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 3em;
+}
+.slideText ul, .slideText li {
+    margin: 0px;
+    padding: 0;
+    list-style: none;
+    width: 100%;
+}
+.slideText ul {
+    position: absolute;
+}
+.slideText li {
+    text-align: center;
+}
+.slideText li a {
+  display: block;
+  overflow: hidden;
+  margin-right: 2px;
+  font-size: 1em;
+  height: 20px;
+  line-height: 20px;
+  text-decoration: none;
+  color: #900 !important;
+}
+.slideText li a:hover {
+    text-decoration: underline;
+}
+#hot-posts ul , #new-posts ul {
+  height: 300px;
+  overflow: hidden;
+}
+</style>
+<script type="text/javascript" src="//attach2.mobile01.com/js/ga.js?v=1519624800"></script>
+<script type="text/javascript" src="//attach2.mobile01.com/js/gtm.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="//attach2.mobile01.com/js/jquery-ui-1.7.2.custom.min.js"></script>
+<script type="text/javascript" src="//attach2.mobile01.com/js/jquery.text-overflow.js"></script>
+<script type="text/javascript" src="//attach2.mobile01.com/js/jquery.browser.min.js"></script>
+<script type="text/javascript" src="//attach2.mobile01.com/js/hoverIntent.js"></script>
+<script type="text/javascript" src="//attach2.mobile01.com/js/superfish.js"></script>
+<script type="text/javascript" src="//attach2.mobile01.com/js/menu.js"></script>
+<script type="text/javascript" src="//attach2.mobile01.com/js/jquery.text-overflow.js"></script>
+<script type="text/javascript" src="//attach2.mobile01.com/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js"></script>
+<script type="text/javascript" src="//attach2.mobile01.com/js/jquery.colorbox-min.js"></script>
+<style type="text/css">
+#gototop {
+    z-index:500;
+    position:fixed;
+    right:34.1%;
+    display:none;
+    cursor:pointer;
+}
+</style>
+<script type="text/javascript">
+<!--
+$(document).ready(function(){
+	$('body > .inner').append('<div id="gototop"><img src="//attach2.mobile01.com/images/tour/gototop.png"></div>');
+	
+	var rp = 0;
+	var bp = 84;
+	
+	function checkWidth() {
+		var sw = $(window).width();
+		if (sw > 1000) {
+			rp = parseInt((sw - 1000) / 2);
+			bp = 84;
+		} else if (sw == 980) { // iPad
+			rp = 0;
+			bp = 84;
+		} else {
+			rp = 0;
+			bp = 67;
+		}
+		$('#gototop').css('bottom', bp + 'px');
+		$('#gototop').css('right', rp + 'px');
+	}
+	
+	checkWidth();
+	$(window).resize(checkWidth);
+
+	$(document).scroll(function() {
+		var y = $(this).scrollTop();
+		if (y > 800) {
+			$('#gototop').fadeIn();
+		} else {
+			$('#gototop').fadeOut();
+		}
+  	});
+	
+	$("#gototop").click(function() {
+    	$('html, body').animate({
+            scrollTop: 0
+		});
+	});
+});
+//-->
+</script>
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"9hjXg1asOv000z", domain:"mobile01.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=9hjXg1asOv000z" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+<!-- Facebook Pixel Code -->
+<script type="text/javascript" src="//attach2.mobile01.com/js/fb_pixel.js"></script>
+<noscript>
+  <img height="1" width="1" src="https://www.facebook.com/tr?id=158374664848530&ev=PageView&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+</head>
+<body>
+<div class="inner">
+  <p id="top"><a href="#content">前往內容</a></p>
+  <div id="header">
+  <div class="inner">
+    <div id="logo"><a href="index.php">Mobile01</a></div>
+    <form action="//www.mobile01.com/googlesearch.php" id="search" target="_blank">
+      <h2 class="hidden-head">
+        <label for="google-search">Google站內搜尋</label>
+      </h2>
+      <p>
+        <input name="q" type="search" size="16" id="google-search" onkeydown="if(event.keyCode==13){this.form.submit();}" />
+      </p>
+      <p><a href="#" onclick="s='search.php';k=encodeURIComponent(document.getElementById('google-search').value);s=(k)?s+'?keyword='+k:s;window.open(s);" class="adv-search">進階搜尋</a></p>
+    </form>
+    <script type="text/javascript" src="//www.google.com/cse/brand?form=search&lang=zh-Hant"></script>
+  </div>
+  <div id="top-tab">
+    <div class="inner">
+      <h2 class="hidden-head">會員資訊</h2>
+      <ul id="member-tools">
+  
+  <li class="hi"><a href="membercompare.php"><span>.</span>Hi, 歡迎來到 Mobile01</a></li>
+  <li class="register"><a href="member.php">註冊<span>.</span></a></li>
+  <li class="login"><a href="login.php?link=%2Findex.php">登入<span>.</span></a></li>
+  
+</ul>
+
+      <h2 class="hidden-head">Mobile01服務</h2>
+      <ul id="m01group">
+        <li class="now"><a href="index.php">討論群組</a></li>
+        <li><a href="waypoint.php">景點</a></li>
+        <li><a href="mpindex.php">市集</a></li>
+        <li><a href="tourindex.php">悅遊日本</a></li>
+	<li><a href="youtubevideo.php?c=21&v=1">汽車週報</a></li>
+	
+      </ul>
+    </div>
+  </div>
+  <div class="inner">
+    <div id="top-menu">
+      <div class="inner">
+        <h2 class="hidden-head">討論群組服務</h2>
+        <nav>
+  <ul class="sf-menu">
+    <li><a href="javascript:void(0);" class="m01">功能</a>
+      <ul>
+        <li><a href="forum.php">討論區</a></li>
+        <li><a href="search.php">搜尋</a></li>
+        <li><a href="calendar.php">行事曆</a></li>
+        <li><a href="newsarchive.php">本站新聞</a></li>
+        <li><a href="articles.php">精選文章</a></li>
+        <li><a href="hottopics.php">熱門文章</a></li>
+        <li><a href="newtopics.php">新進文章</a></li>
+        <li><a href="digestforum.php">精華區</a></li>
+        <li><a href="newslist.php">新聞台</a></li>
+        <li><a href="youtubevideo.php">影片專區</a></li>
+        <li><a href="logoarchive.php">節慶Logo</a></li>
+      </ul>
+    </li>
+    <li><a href="category.php?id=4">手機</a>
+      <ul>
+        <li><a href="forumtopic.php?c=16">手機綜合討論區</a></li>
+        <li><a href="forumtopic.php?c=16&s=20">Android</a>
+          <ul>
+            <li><a href="topiclist.php?f=564">Acer</a></li>
+            <li><a href="topiclist.php?f=588">Asus</a></li>
+            <li><a href="topiclist.php?f=722">BlackBerry</a></li>
+            <li><a href="topiclist.php?f=565">Google</a></li>
+            <li><a href="topiclist.php?f=624">GSmart</a></li>
+            <li><a href="topiclist.php?f=566">HTC</a></li>
+            <li><a href="topiclist.php?f=629">Huawei</a></li>
+            <li><a href="topiclist.php?f=203">InFocus</a></li>
+            <li><a href="topiclist.php?f=581">LG</a></li>
+            <li><a href="topiclist.php?f=567">MOTOROLA</a></li>
+            <li><a href="topiclist.php?f=742">Nokia</a></li>
+            <li><a href="topiclist.php?f=689">OPPO</a></li>
+            <li><a href="topiclist.php?f=568">SAMSUNG</a></li>
+            <li><a href="topiclist.php?f=748">Sharp</a></li>
+            <li><a href="topiclist.php?f=569">Sony(SE)</a></li>
+            <li><a href="topiclist.php?f=749">SUGAR</a></li>
+            <li><a href="topiclist.php?f=754">vivo</a></li>
+            <li><a href="topiclist.php?f=634">小米手機</a></li>
+            <li><a href="topiclist.php?f=677">中興</a></li>
+            <li><a href="topiclist.php?f=678">酷派</a></li>
+            <li><a href="topiclist.php?f=679">聯想</a></li>
+            <li><a href="topiclist.php?f=586">Android其他品牌</a></li>
+            <li><a href="topiclist.php?f=423">Android軟體分享</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=16&s=21">BlackBerry</a>
+          <ul>
+            <li><a href="topiclist.php?f=384">BlackBerry</a></li>
+            <li><a href="topiclist.php?f=722">BlackBerry Android</a></li>
+            <li><a href="topiclist.php?f=680">BlackBerry軟體分享</a></li>
+          </ul>
+        </li>
+        <li><a href="topiclist.php?f=383">iPhone</a>
+          <ul>
+            <li><a href="topiclist.php?f=383">iPhone</a></li>
+            <li><a href="topiclist.php?f=627">iPhone軟體</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=16&s=23">Symbian</a>
+          <ul>
+            <li><a href="topiclist.php?f=571">NOKIA</a></li>
+            <li><a href="topiclist.php?f=572">Samsung</a></li>
+            <li><a href="topiclist.php?f=573">SonyEricsson</a></li>
+            <li><a href="topiclist.php?f=681">Symbian其他品牌</a></li>
+            <li><a href="topiclist.php?f=574">Symbian軟體分享</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=16&s=24">Windows Phone</a>
+          <ul>
+            <li><a href="topiclist.php?f=221">Acer</a></li>
+            <li><a href="topiclist.php?f=222">Asus</a></li>
+            <li><a href="topiclist.php?f=437">GARMIN-Asus</a></li>
+            <li><a href="topiclist.php?f=225">GSmart</a></li>
+            <li><a href="topiclist.php?f=226">HP</a></li>
+            <li><a href="topiclist.php?f=224">HTC</a></li>
+            <li><a href="topiclist.php?f=570">LG</a></li>
+            <li><a href="topiclist.php?f=631">Nokia</a></li>
+            <li><a href="topiclist.php?f=450">SAMSUNG</a></li>
+            <li><a href="topiclist.php?f=575">Sony(SE)</a></li>
+            <li><a href="topiclist.php?f=576">TOSHIBA</a></li>
+            <li><a href="topiclist.php?f=288">Windows Phone其他品牌</a></li>
+            <li><a href="topiclist.php?f=129">Windows Phone軟體分享</a></li>
+          </ul>
+        </li>
+        <li><a href="topiclist.php?f=62">其他作業系統</a></li>
+        <li><a href="topiclist.php?f=61">其他智慧型手機</a></li>
+        <li><a href="forumtopic.php?c=16&s=24">Feature Phone</a>
+          <ul>
+            <li><a href="topiclist.php?f=219">Asus</a></li>
+            <li><a href="topiclist.php?f=175">BenQ</a></li>
+            <li><a href="topiclist.php?f=349">LG</a></li>
+            <li><a href="topiclist.php?f=117">MOTOROLA</a></li>
+            <li><a href="topiclist.php?f=122">NOKIA</a></li>
+            <li><a href="topiclist.php?f=217">SAMSUNG</a></li>
+            <li><a href="topiclist.php?f=121">Sony Ericsson</a></li>
+            <li><a href="topiclist.php?f=521">佈景主題</a></li>
+            <li><a href="topiclist.php?f=165">傳統手機其他品牌</a></li>
+          </ul>
+        </li>
+        <li><a href="topiclist.php?f=527">日本手機</a></li>
+        <li><a href="topiclist.php?f=18">行動通訊與資費</a></li>
+        <li><a href="topiclist.php?f=738">手機週邊與穿戴裝置</a></li>
+        <li><a href="topiclist.php?f=393">消費經驗分享</a></li>
+      </ul>
+    </li>
+    <li><a href="category.php?id=5">相機</a>
+      <ul>
+        <li><a href="forumtopic.php?c=20">相機綜合討論區</a></li>
+        <li><a href="forumtopic.php?c=20&s=16">消費型數位相機</a>
+          <ul>
+            <li><a href="topiclist.php?f=538">Canon</a></li>
+            <li><a href="topiclist.php?f=245">Casio</a></li>
+            <li><a href="topiclist.php?f=295">Kodak</a></li>
+            <li><a href="topiclist.php?f=539">Fujifilm</a></li>
+            <li><a href="topiclist.php?f=247">Leica</a></li>
+            <li><a href="topiclist.php?f=540">Nikon</a></li>
+            <li><a href="topiclist.php?f=541">Olympus</a></li>
+            <li><a href="topiclist.php?f=542">Panasonic</a></li>
+            <li><a href="topiclist.php?f=543">Pentax</a></li>
+            <li><a href="topiclist.php?f=252">Ricoh</a></li>
+            <li><a href="topiclist.php?f=440">Samsung</a></li>
+            <li><a href="topiclist.php?f=544">Sigma</a></li>
+            <li><a href="topiclist.php?f=545">Sony</a></li>
+            <li><a href="topiclist.php?f=546">消費型相機綜合</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=20&s=17">可換鏡頭數位相機</a>
+          <ul>
+            <li><a href="topiclist.php?f=244">Canon</a></li>
+            <li><a href="topiclist.php?f=246">Fujifilm</a></li>
+            <li><a href="topiclist.php?f=183">Leica</a></li>
+            <li><a href="topiclist.php?f=248">Nikon</a></li>
+            <li><a href="topiclist.php?f=249">Olympus</a></li>
+            <li><a href="topiclist.php?f=250">Panasonic</a></li>
+            <li><a href="topiclist.php?f=251">Pentax</a></li>
+            <li><a href="topiclist.php?f=556">Samsung</a></li>
+            <li><a href="topiclist.php?f=755">Samyang</a></li>
+            <li><a href="topiclist.php?f=253">Sigma</a></li>
+            <li><a href="topiclist.php?f=254">Sony</a></li>
+            <li><a href="topiclist.php?f=756">Tamron</a></li>
+            <li><a href="topiclist.php?f=757">Tokina</a></li>
+            <li><a href="topiclist.php?f=758">Zeiss</a></li>
+            <li><a href="topiclist.php?f=547">可換鏡頭數位相機綜合</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=20&s=18">運動、空拍、攝影機</a>
+          <ul>
+            <li><a href="topiclist.php?f=548">Canon</a></li>
+            <li><a href="topiclist.php?f=759">DJI</a></li>
+            <li><a href="topiclist.php?f=733">GARMIN</a></li>
+            <li><a href="topiclist.php?f=734">GoPro</a></li>
+            <li><a href="topiclist.php?f=550">Panasonic</a></li>
+            <li><a href="topiclist.php?f=552">Sony</a></li>
+            <li><a href="topiclist.php?f=553">影片後製與剪輯</a></li>
+            <li><a href="topiclist.php?f=735">運動、空拍、攝影機綜合</a></li>
+          </ul>
+        </li>
+        <li><a href="topiclist.php?f=164">影像器材周邊</a></li>
+        <li><a href="topiclist.php?f=255">傳統與特殊相機</a></li>
+        <li><a href="topiclist.php?f=257">攝影觀念及技術</a></li>
+        <li><a href="topiclist.php?f=256">影像處理與後製</a></li>
+        <li><a href="topiclist.php?f=395">消費經驗分享</a></li>
+      </ul>
+    </li>
+    <li><a href="category.php?id=2">筆電</a>
+      <ul>
+        <li><a href="forumtopic.php?c=19">筆電綜合討論區</a></li>
+        <li><a href="topiclist.php?f=232">Acer</a></li>
+        <li><a href="topiclist.php?f=233">Asus</a></li>
+        <li><a href="topiclist.php?f=235">BenQ</a></li>
+        <li><a href="topiclist.php?f=724">CJSCOPE</a></li>
+        <li><a href="topiclist.php?f=725">CLEVO</a></li>
+        <li><a href="topiclist.php?f=236">DELL</a></li>
+        <li><a href="topiclist.php?f=237">Fujitsu</a></li>
+        <li><a href="topiclist.php?f=238">GIGABYTE</a></li>
+        <li><a href="topiclist.php?f=239">HP</a></li>
+        <li><a href="topiclist.php?f=240">Lenovo</a></li>
+        <li><a href="topiclist.php?f=760">LG</a></li>
+        <li><a href="topiclist.php?f=241">MSI</a></li>
+        <li><a href="topiclist.php?f=242">Panasonic</a></li>
+        <li><a href="topiclist.php?f=258">Sony</a></li>
+        <li><a href="topiclist.php?f=743">Surface</a></li>
+        <li><a href="topiclist.php?f=243">Toshiba</a></li>
+        <li><a href="topiclist.php?f=605">Android平板電腦</a></li>
+        <li><a href="topiclist.php?f=163">Windows平板電腦</a></li>
+        <li><a href="topiclist.php?f=159">其他攜帶型電腦</a></li>
+        <li><a href="topiclist.php?f=394">消費經驗分享</a></li>
+      </ul>
+    </li>
+    <li><a href="category.php?id=3">電腦</a>
+      <ul>
+        <li><a href="forumtopic.php?c=17">電腦綜合討論區</a></li>
+        <li><a href="forumtopic.php?c=17&s=5">核心組件</a>
+          <ul>
+            <li><a href="topiclist.php?f=296">中央處理器</a></li>
+            <li><a href="topiclist.php?f=488">主機板</a></li>
+            <li><a href="topiclist.php?f=489">記憶體</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=17&s=6">儲存裝置</a>
+          <ul>
+            <li><a href="topiclist.php?f=297">硬碟</a></li>
+            <li><a href="topiclist.php?f=490">SSD固態硬碟</a></li>
+            <li><a href="topiclist.php?f=491">外接式硬碟盒</a></li>
+            <li><a href="topiclist.php?f=492">隨身碟與錄音筆</a></li>
+            <li><a href="topiclist.php?f=493">光碟燒錄</a></li>
+            <li><a href="topiclist.php?f=494">網路儲存裝置</a></li>
+            <li><a href="topiclist.php?f=495">其他儲存</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=17&s=7">顯示設備</a>
+          <ul>
+            <li><a href="topiclist.php?f=298">顯示卡</a></li>
+            <li><a href="topiclist.php?f=350">電腦螢幕</a></li>
+            <li><a href="topiclist.php?f=496">電視卡盒</a></li>
+            <li><a href="topiclist.php?f=737">虛擬實境裝置</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=17&s=8">電腦週邊</a>
+          <ul>
+            <li><a href="topiclist.php?f=351">鍵盤與手寫板</a></li>
+            <li><a href="topiclist.php?f=497">滑鼠與鍵鼠組</a></li>
+            <li><a href="topiclist.php?f=498">噴墨印表機</a></li>
+            <li><a href="topiclist.php?f=499">雷射印表機</a></li>
+            <li><a href="topiclist.php?f=500">音效裝置</a></li>
+            <li><a href="topiclist.php?f=116">其他電腦週邊</a></li>
+            <li><a href="topiclist.php?f=685">電競週邊</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=17&s=9">機殼散熱</a>
+          <ul>
+            <li><a href="topiclist.php?f=299">機殼</a></li>
+            <li><a href="topiclist.php?f=501">電源供應器</a></li>
+            <li><a href="topiclist.php?f=502">散熱器</a></li>
+            <li><a href="topiclist.php?f=503">其他電源設備</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=17&s=10">網路產品</a>
+          <ul>
+            <li><a href="topiclist.php?f=504">網路卡</a></li>
+            <li><a href="topiclist.php?f=110">基地台與分享器</a></li>
+            <li><a href="topiclist.php?f=505">網路視訊與電話</a></li>
+            <li><a href="topiclist.php?f=506">網站與網頁技術</a></li>
+            <li><a href="topiclist.php?f=507">其他網路設備與技術</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=17&s=11">電腦軟體</a>
+          <ul>
+            <li><a href="topiclist.php?f=300">作業系統</a></li>
+            <li><a href="topiclist.php?f=508">電腦安全</a></li>
+            <li><a href="topiclist.php?f=509">影像處理</a></li>
+            <li><a href="topiclist.php?f=510">影片播放與轉檔</a></li>
+            <li><a href="topiclist.php?f=511">文書處理</a></li>
+            <li><a href="topiclist.php?f=512">其他應用軟體</a></li>
+          </ul>
+        </li>
+        <li><a href="topiclist.php?f=513">品牌電腦與準系統</a></li>
+        <li><a href="topiclist.php?f=174">自組電腦分享</a></li>
+        <li><a href="topiclist.php?f=514">其他電腦軟硬體</a></li>
+        <li><a href="topiclist.php?f=396">電腦組裝訪價消費分享</a></li>
+        <li><a href="topiclist.php?f=359">Google服務分享</a></li>
+      </ul>
+    </li>
+    <li><a href="category.php?id=15">蘋果</a>
+      <ul>
+        <li><a href="forumtopic.php?c=30">蘋果綜合討論區</a></li>
+        <li><a href="topiclist.php?f=563">iPad</a></li>
+        <li><a href="topiclist.php?f=626">iPad 軟體</a></li>
+        <li><a href="topiclist.php?f=383">iPhone</a></li>
+        <li><a href="topiclist.php?f=627">iPhone 軟體</a></li>
+        <li><a href="topiclist.php?f=479">iPod</a></li>
+        <li><a href="topiclist.php?f=591">iOS Jailbreak</a></li>
+        <li><a href="topiclist.php?f=704">Apple TV</a></li>
+        <li><a href="topiclist.php?f=470">Apple Watch</a></li>
+        <li><a href="topiclist.php?f=480">Mac桌上型電腦</a></li>
+        <li><a href="topiclist.php?f=481">Mac筆記型電腦</a></li>
+        <li><a href="topiclist.php?f=177">蘋果週邊</a></li>
+        <li><a href="topiclist.php?f=482">蘋果軟體</a></li>
+        <li><a href="topiclist.php?f=483">消費經驗分享</a></li>
+      </ul>
+    </li>
+    <li><a href="category.php?id=12">影音</a>
+      <ul>
+        <li><a href="forumtopic.php?c=28">影音綜合討論區</a></li>
+        <li><a href="topiclist.php?f=180">行動影音</a></li>
+        <li><a href="topiclist.php?f=347">高畫質視界</a></li>
+        <li><a href="topiclist.php?f=348">發燒音響</a></li>
+        <li><a href="topiclist.php?f=386">小惡魔影城</a></li>
+        <li><a href="topiclist.php?f=402">音樂鑑賞室</a></li>
+        <li><a href="topiclist.php?f=562">其他影音裝置</a></li>
+        <li><a href="topiclist.php?f=421">小惡魔電視台</a></li>
+        <li><a href="topiclist.php?f=403">消費經驗分享</a></li>
+      </ul>
+    </li>
+    <li><a href="category.php?id=6">汽車</a>
+      <ul>
+        <li><a href="forumtopic.php?c=21">汽車綜合討論區</a></li>
+        <li><a href="forumtopic.php?c=21&s=25">德國車系</a>
+          <ul>
+            <li><a href="topiclist.php?f=606">Audi</a></li>
+            <li><a href="topiclist.php?f=275">BMW</a></li>
+            <li><a href="topiclist.php?f=303">Mercedes Benz</a></li>
+            <li><a href="topiclist.php?f=369">Opel</a></li>
+            <li><a href="topiclist.php?f=608">Porsche</a></li>
+            <li><a href="topiclist.php?f=623">Skoda</a></li>
+            <li><a href="topiclist.php?f=609">Volkswagen</a></li>
+            <li><a href="topiclist.php?f=286">德國車系綜合</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=21&s=26">英國車系</a>
+          <ul>
+            <li><a href="topiclist.php?f=610">Aston Martin</a></li>
+            <li><a href="topiclist.php?f=727">Bentley</a></li>
+            <li><a href="topiclist.php?f=603">Jaguar</a></li>
+            <li><a href="topiclist.php?f=604">Land Rover</a></li>
+            <li><a href="topiclist.php?f=611">Lotus</a></li>
+            <li><a href="topiclist.php?f=607">Mini</a></li>
+            <li><a href="topiclist.php?f=448">英國車系綜合</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=21&s=27">法國車系</a>
+          <ul>
+            <li><a href="topiclist.php?f=413">Peugeot</a></li>
+            <li><a href="topiclist.php?f=326">法國車系綜合</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=21&s=28">瑞典車系</a>
+          <ul>
+            <li><a href="topiclist.php?f=612">Saab</a></li>
+            <li><a href="topiclist.php?f=339">Volvo</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=21&s=29">義大利車系</a>
+          <ul>
+            <li><a href="topiclist.php?f=690">Alfa Romeo</a></li>
+            <li><a href="topiclist.php?f=613">Ferrari</a></li>
+            <li><a href="topiclist.php?f=614">Maserati</a></li>
+            <li><a href="topiclist.php?f=615">Lamborghini</a></li>
+            <li><a href="topiclist.php?f=337">義大利車系綜合</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=21&s=30">美國車系</a>
+          <ul>
+            <li><a href="topiclist.php?f=260">Ford</a></li>
+            <li><a href="topiclist.php?f=741">Tesla</a></li>
+            <li><a href="topiclist.php?f=616">GM車系</a></li>
+            <li><a href="topiclist.php?f=617">美國車系綜合</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=21&s=31">日本車系</a>
+          <ul>
+            <li><a href="topiclist.php?f=261">Honda</a></li>
+            <li><a href="topiclist.php?f=449">INFINITI</a></li>
+            <li><a href="topiclist.php?f=346">LEXUS</a></li>
+            <li><a href="topiclist.php?f=276">Mazda</a></li>
+            <li><a href="topiclist.php?f=262">Mitsubishi</a></li>
+            <li><a href="topiclist.php?f=263">Nissan</a></li>
+            <li><a href="topiclist.php?f=336">Subaru</a></li>
+            <li><a href="topiclist.php?f=277">Suzuki</a></li>
+            <li><a href="topiclist.php?f=264">Toyota</a></li>
+            <li><a href="topiclist.php?f=618">日本車系綜合</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=21&s=32">韓國車系</a>
+          <ul>
+            <li><a href="topiclist.php?f=585">Hyundai</a></li>
+            <li><a href="topiclist.php?f=691">KIA</a></li>
+            <li><a href="topiclist.php?f=338">韓國車系綜合</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=21&s=33">台灣車系</a>
+          <ul>
+            <li><a href="topiclist.php?f=444">LUXGEN</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=21&s=34">中國車系</a>
+          <ul>
+            <li><a href="topiclist.php?f=577">tobe</a></li>
+            <li><a href="topiclist.php?f=619">中國車系綜合</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=21&s=46">汽車行車記錄器</a>
+          <ul>
+            <li><a href="topiclist.php?f=761">DoD</a></li>
+            <li><a href="topiclist.php?f=762">GARMIN</a></li>
+            <li><a href="topiclist.php?f=763">Mio</a></li>
+            <li><a href="topiclist.php?f=764">PAPAGO</a></li>
+            <li><a href="topiclist.php?f=621">汽車行車記錄綜合</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=21&s=47">汽車GPS</a>
+          <ul>
+            <li><a href="topiclist.php?f=228">GARMIN</a></li>
+            <li><a href="topiclist.php?f=304">HOLUX</a></li>
+            <li><a href="topiclist.php?f=227">Mio</a></li>
+            <li><a href="topiclist.php?f=305">Panasonic</a></li>
+            <li><a href="topiclist.php?f=231">PAPAGO</a></li>
+            <li><a href="topiclist.php?f=230">TOMTOM</a></li>
+            <li><a href="topiclist.php?f=688">樂客導航王</a></li>
+            <li><a href="topiclist.php?f=519">中國品牌</a></li>
+            <li><a href="topiclist.php?f=130">汽車GPS其他品牌</a></li>
+            <li><a href="topiclist.php?f=520">汽車GPS消費經驗分享</a></li>
+          </ul>
+        </li>
+        <li><a href="topiclist.php?f=620">汽車零組件</a></li>
+        <li><a href="topiclist.php?f=636">輪圈與輪胎</a></li>
+        <li><a href="topiclist.php?f=214">動力研究室</a></li>
+        <li><a href="topiclist.php?f=278">WRC / F1 賽事討論</a></li>
+        <li><a href="topiclist.php?f=294">汽機車七嘴八舌</a></li>
+        <li><a href="topiclist.php?f=397">消費經驗分享</a></li>
+        <li><a href="topiclist.php?f=687">ETC專區</a></li>
+        <li><a href="topiclist.php?f=750&utm_source=topmenu&utm_campaign=buycard-menu&utm_medium=click">購車菜單</a></li>
+      </ul>
+    </li>
+    <li><a href="category.php?id=13">機車</a>
+      <ul>
+        <li><a href="forumtopic.php?c=29">機車綜合討論區</a></li>
+        <li><a href="forumtopic.php?c=29&s=35">輕型機車(250cc以下)</a>
+          <ul>
+            <li><a href="topiclist.php?f=654">AEON</a></li>
+            <li><a href="topiclist.php?f=655">HARTFORD</a></li>
+            <li><a href="topiclist.php?f=656">HONDA</a></li>
+            <li><a href="topiclist.php?f=657">KYMCO</a></li>
+            <li><a href="topiclist.php?f=658">PGO</a></li>
+            <li><a href="topiclist.php?f=659">SUZUKI</a></li>
+            <li><a href="topiclist.php?f=660">SYM</a></li>
+            <li><a href="topiclist.php?f=686">VESPA</a></li>
+            <li><a href="topiclist.php?f=661">YAMAHA</a></li>
+            <li><a href="topiclist.php?f=266">輕型機車綜合(250cc以下)</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=29&s=36">重型機車(250cc以上)</a>
+          <ul>
+            <li><a href="topiclist.php?f=682">AEON</a></li>
+            <li><a href="topiclist.php?f=662">BMW</a></li>
+            <li><a href="topiclist.php?f=663">DUCATI</a></li>
+            <li><a href="topiclist.php?f=664">HARLEY-DAVIDSON</a></li>
+            <li><a href="topiclist.php?f=665">HONDA</a></li>
+            <li><a href="topiclist.php?f=666">KAWASAKI</a></li>
+            <li><a href="topiclist.php?f=667">KYMCO</a></li>
+            <li><a href="topiclist.php?f=668">SUZUKI</a></li>
+            <li><a href="topiclist.php?f=669">SYM</a></li>
+            <li><a href="topiclist.php?f=670">YAMAHA</a></li>
+            <li><a href="topiclist.php?f=267">重型機車綜合(250cc以上)</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=29&s=45">電動機車</a>
+          <ul>
+            <li><a href="topiclist.php?f=751">Gogoro</a></li>
+            <li><a href="topiclist.php?f=752">KYMCO(電動機車)</a></li>
+            <li><a href="topiclist.php?f=753">eMOVING</a></li>
+            <li><a href="topiclist.php?f=622">電動機車綜合</a></li>
+          </ul>
+        </li>
+        <li><a href="topiclist.php?f=265">人身安全部品</a></li>
+        <li><a href="topiclist.php?f=414">機車活動區</a></li>
+        <li><a href="topiclist.php?f=416">機車遊記分享</a></li>
+        <li><a href="topiclist.php?f=431">機車賽事</a></li>
+        <li><a href="forumtopic.php?c=29&s=48">機車行車記錄器</a>
+          <ul>
+            <li><a href="topiclist.php?f=765">Mio</a></li>
+            <li><a href="topiclist.php?f=766">SJCAM</a></li>
+            <li><a href="topiclist.php?f=767">雲創</a></li>
+            <li><a href="topiclist.php?f=768">歐視達</a></li>
+            <li><a href="topiclist.php?f=769">響尾蛇</a></li>
+            <li><a href="topiclist.php?f=671">機車行車記錄器綜合</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=29&s=49">機車GPS</a>
+        <ul>
+            <li><a href="topiclist.php?f=770">GARMIN</a></li>
+            <li><a href="topiclist.php?f=771">Mio</a></li>
+            <li><a href="topiclist.php?f=772">PAPAGO</a></li>
+            <li><a href="topiclist.php?f=773">機車GPS綜合</a></li>
+        </ul>
+        </li>
+        <li><a href="topiclist.php?f=415">消費經驗分享</a></li>
+      </ul>
+    </li>
+    <li><a href="category.php?id=8">單車</a>
+      <ul>
+        <li><a href="forumtopic.php?c=24">單車綜合討論區</a></li>
+        <li><a href="topiclist.php?f=287">單車活動與賽事</a></li>
+        <li><a href="topiclist.php?f=315">登山車</a></li>
+        <li><a href="topiclist.php?f=316">公路車</a></li>
+        <li><a href="topiclist.php?f=692">單速車</a></li>
+        <li><a href="topiclist.php?f=317">小徑與摺疊車</a></li>
+        <li><a href="topiclist.php?f=268">單車其他車種</a></li>
+        <li><a href="topiclist.php?f=318">單車週邊與保養改裝</a></li>
+        <li><a href="topiclist.php?f=320">遊記與路線分享區</a></li>
+        <li><a href="forumtopic.php?c=24&s=50">單車GPS</a>
+          <ul>
+            <li><a href="topiclist.php?f=774">GARMIN</a></li>
+            <li><a href="topiclist.php?f=775">其他單車GPS品牌</a></li>
+          </ul>
+        <li><a href="topiclist.php?f=377">單車GPS航跡分享</a></li>
+        <li><a href="topiclist.php?f=398">消費經驗分享</a></li>
+        <li><a href="#">台北市區車隊</a>
+          <ul>
+            <li><a href="topiclist.php?f=309">台北幸福山港</a></li>
+            <li><a href="topiclist.php?f=321">大稻之行團</a></li>
+            <li><a href="topiclist.php?f=322">Taipei01小惡魔車隊</a></li>
+            <li><a href="topiclist.php?f=328">臺北左岸夜騎團</a></li>
+            <li><a href="topiclist.php?f=332">南台北城市單車俱樂部</a></li>
+            <li><a href="topiclist.php?f=340">林北愛騎團</a></li>
+            <li><a href="topiclist.php?f=344">台北非假日順騎自然團</a></li>
+            <li><a href="topiclist.php?f=363">大文山樂騎團</a></li>
+            <li><a href="topiclist.php?f=365">鮪魚肚TORO-BIKE車隊</a></li>
+            <li><a href="topiclist.php?f=366">大安森林團</a></li>
+            <li><a href="topiclist.php?f=379">元氣家族</a></li>
+            <li><a href="topiclist.php?f=385">疾輪百客</a></li>
+            <li><a href="topiclist.php?f=387">正妹陪騎團</a></li>
+            <li><a href="topiclist.php?f=389">Friends 20</a></li>
+            <li><a href="topiclist.php?f=391">紅蜻蜓車隊</a></li>
+            <li><a href="topiclist.php?f=418">中興勤瘦幫</a></li>
+            <li><a href="topiclist.php?f=426">NHB 內湖幫</a></li>
+            <li><a href="topiclist.php?f=584">K.B.I.車隊</a></li>
+          </ul>
+        </li>
+        <li><a href="#">北部地區車隊</a>
+          <ul>
+            <li><a href="topiclist.php?f=307">汐萬百客</a></li>
+            <li><a href="topiclist.php?f=308">土城愛騎團</a></li>
+            <li><a href="topiclist.php?f=310">板橋騎兵團</a></li>
+            <li><a href="topiclist.php?f=312">大新竹竹蜻蜓車隊</a></li>
+            <li><a href="topiclist.php?f=314">大桃園小惡魔</a></li>
+            <li><a href="topiclist.php?f=327">北臺灣OFFROAD團</a></li>
+            <li><a href="topiclist.php?f=329">永福IN幫幫</a></li>
+            <li><a href="topiclist.php?f=331">基隆鳶飛百客車隊</a></li>
+            <li><a href="topiclist.php?f=341">新莊星光團</a></li>
+            <li><a href="topiclist.php?f=353">新竹小熊單車團</a></li>
+            <li><a href="topiclist.php?f=355">林口鄉自由車委員會</a></li>
+            <li><a href="topiclist.php?f=364">樹林極樹</a></li>
+            <li><a href="topiclist.php?f=390">大摺無雙</a></li>
+            <li><a href="topiclist.php?f=417">悠遊約騎團</a></li>
+            <li><a href="topiclist.php?f=422">淡水恐龍團</a></li>
+            <li><a href="topiclist.php?f=425">藍鵲家族</a></li>
+            <li><a href="topiclist.php?f=432">兩鐵家族</a></li>
+            <li><a href="topiclist.php?f=433">大騎士單車俱樂部</a></li>
+            <li><a href="topiclist.php?f=434">快樂腳</a></li>
+            <li><a href="topiclist.php?f=439">板橋翹孤輪</a></li>
+            <li><a href="topiclist.php?f=447">比基尼單車隊</a></li>
+            <li><a href="topiclist.php?f=518">熟男熟女牽車團</a></li>
+            <li><a href="topiclist.php?f=560">夜八里輕騎團</a></li>
+            <li><a href="topiclist.php?f=582">Ni Ni ride to great</a></li>
+            <li><a href="topiclist.php?f=583">南勢角迷路團</a></li>
+            <li><a href="topiclist.php?f=589">新北市樹鶯區鷹速車隊</a></li>
+          </ul>
+        </li>
+        <li><a href="#">中部地區車隊</a>
+          <ul>
+            <li><a href="topiclist.php?f=147">熱血自轉車部</a></li>
+            <li><a href="topiclist.php?f=311">彰化星光八卦團</a></li>
+            <li><a href="topiclist.php?f=319">苗栗山城單車俱樂部</a></li>
+            <li><a href="topiclist.php?f=323">台中真享受車隊</a></li>
+            <li><a href="topiclist.php?f=352">大南投01惡魔團</a></li>
+            <li><a href="topiclist.php?f=362">苑裡海山假日逍遙團</a></li>
+            <li><a href="topiclist.php?f=378">雲遊林間</a></li>
+            <li><a href="topiclist.php?f=419">台中優遊團</a></li>
+            <li><a href="topiclist.php?f=424">悠遊騎跡輕鬆團</a></li>
+            <li><a href="topiclist.php?f=428">台中樂活車隊</a></li>
+            <li><a href="topiclist.php?f=430">漂泊者車隊</a></li>
+            <li><a href="topiclist.php?f=435">海放車隊</a></li>
+            <li><a href="topiclist.php?f=436">TCSM台中慢慢騎</a></li>
+            <li><a href="topiclist.php?f=446">台中夜奔</a></li>
+            <li><a href="topiclist.php?f=451">台中雅騎士</a></li>
+            <li><a href="topiclist.php?f=452">雲林塔可單車隊</a></li>
+            <li><a href="topiclist.php?f=590">中台灣Offroad團</a></li>
+          </ul>
+        </li>
+        <li><a href="#">南部地區車隊</a>
+          <ul>
+            <li><a href="topiclist.php?f=306">高雄01小惡魔車團</a></li>
+            <li><a href="topiclist.php?f=333">大台南01惡魔團</a></li>
+            <li><a href="topiclist.php?f=343">嘉義諸羅佰客</a></li>
+            <li><a href="topiclist.php?f=357">台南星光團</a></li>
+            <li><a href="topiclist.php?f=358">北高貓頭鷹團</a></li>
+            <li><a href="topiclist.php?f=429">笨港車隊</a></li>
+            <li><a href="topiclist.php?f=445">沐風團</a></li>
+            <li><a href="topiclist.php?f=478">遊戲兔子團</a></li>
+            <li><a href="topiclist.php?f=484">屏東肉腳團</a></li>
+            <li><a href="topiclist.php?f=485">台南逍遙團</a></li>
+            <li><a href="topiclist.php?f=486">嘉義搖擺兵團</a></li>
+            <li><a href="topiclist.php?f=487">H.H.E自由車隊</a></li>
+            <li><a href="topiclist.php?f=515">夢團</a></li>
+            <li><a href="topiclist.php?f=516">光夜團</a></li>
+            <li><a href="topiclist.php?f=517">南台灣OFFROAD團</a></li>
+            <li><a href="topiclist.php?f=555">北永康愛騎團</a></li>
+          </ul>
+        </li>
+        <li><a href="#">海外地區車隊</a>
+          <ul>
+            <li><a href="topiclist.php?f=313">大陸華東ABC車隊</a></li>
+            <li><a href="topiclist.php?f=324">舊金山灣區單車行</a></li>
+            <li><a href="topiclist.php?f=438">東莞貓頭鷹鐵馬隊</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="category.php?id=7">遊戲</a>
+      <ul>
+        <li><a href="forumtopic.php?c=23">遊戲綜合討論區</a></li>
+        <li><a href="forumtopic.php?c=23&s=37">PlayStation</a>
+          <ul>
+            <li><a href="topiclist.php?f=281">PS3 / PS4</a></li>
+            <li><a href="topiclist.php?f=672">PSP</a></li>
+            <li><a href="topiclist.php?f=673">PS Vita</a></li>
+          </ul>
+        </li>
+        <li><a href="topiclist.php?f=282">Xbox One / Xbox360</a></li>
+        <li><a href="forumtopic.php?c=23&s=38">任天堂</a>
+          <ul>
+            <li><a href="topiclist.php?f=280">Wii</a></li>
+            <li><a href="topiclist.php?f=674">DS</a></li>
+            <li><a href="topiclist.php?f=740">Switch</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=23&s=39">Blizzard</a>
+          <ul>
+            <li><a href="topiclist.php?f=285">魔獸世界</a></li>
+            <li><a href="topiclist.php?f=401">暗黑破壞神</a></li>
+            <li><a href="topiclist.php?f=561">星海爭霸</a></li>
+            <li><a href="topiclist.php?f=694">爐石戰記</a></li>
+            <li><a href="topiclist.php?f=695">暴雪英霸</a></li>
+            <li><a href="topiclist.php?f=723">鬥陣特攻</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=23&s=40">EA</a>
+          <ul>
+            <li><a href="topiclist.php?f=632">戰地風雲</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=23&s=43">線上遊戲</a>
+          <ul>
+            <li><a href="topiclist.php?f=693">魔物獵人</a></li>
+            <li><a href="topiclist.php?f=683">英雄聯盟</a></li>
+            <li><a href="topiclist.php?f=684">戰車世界</a></li>
+            <li><a href="topiclist.php?f=284">線上遊戲綜合</a></li>
+          </ul>
+        </li>
+        <li><a href="topiclist.php?f=283">電腦遊戲</a></li>
+        <li><a href="topiclist.php?f=334">網頁遊戲</a></li>
+        <li><a href="forumlist.php?f=23&s=41">手機遊戲</a>
+          <ul>
+            <li><a href="topiclist.php?f=675">Android遊戲</a></li>
+            <li><a href="topiclist.php?f=676">iOS遊戲</a></li>
+          </ul>
+        </li>
+        <li><a href="topiclist.php?f=179">其他遊戲</a></li>
+        <li><a href="topiclist.php?f=685">電競週邊</a></li>
+        <li><a href="topiclist.php?f=737">虛擬實境裝置</a></li>
+        <li><a href="topiclist.php?f=388">封測帳號發送</a></li>
+        <li><a href="topiclist.php?f=399">消費經驗分享</a></li>
+      </ul>
+    </li>
+    <li><a href="category.php?id=10">居家</a>
+      <ul>
+        <li><a href="forumtopic.php?c=26">居家綜合討論區</a></li>
+        <li><a href="forumtopic.php?c=26&s=1">北部房產</a>
+          <ul>
+            <li><a href="topiclist.php?f=453">基隆市</a></li>
+            <li><a href="topiclist.php?f=454">台北市</a></li>
+            <li><a href="topiclist.php?f=455">新北市</a></li>
+            <li><a href="topiclist.php?f=456">桃園市</a></li>
+            <li><a href="topiclist.php?f=457">新竹市</a></li>
+            <li><a href="topiclist.php?f=458">新竹縣</a></li>
+            <li><a href="topiclist.php?f=459">苗栗縣</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=26&s=2">中部房產</a>
+          <ul>
+            <li><a href="topiclist.php?f=460">台中市</a></li>
+            <li><a href="topiclist.php?f=462">彰化縣</a></li>
+            <li><a href="topiclist.php?f=463">南投縣</a></li>
+            <li><a href="topiclist.php?f=464">雲林縣</a></li>
+            <li><a href="topiclist.php?f=465">嘉義市</a></li>
+            <li><a href="topiclist.php?f=466">嘉義縣</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=26&s=3">南部房產</a>
+          <ul>
+            <li><a href="topiclist.php?f=467">台南市</a></li>
+            <li><a href="topiclist.php?f=469">高雄市</a></li>
+            <li><a href="topiclist.php?f=471">屏東縣</a></li>
+          </ul>
+        </li>
+        <li><a href="forumtopic.php?c=26&s=4">東部外島房產</a>
+          <ul>
+            <li><a href="topiclist.php?f=472">台東縣</a></li>
+            <li><a href="topiclist.php?f=473">花蓮縣</a></li>
+            <li><a href="topiclist.php?f=474">宜蘭縣</a></li>
+            <li><a href="topiclist.php?f=475">澎湖縣</a></li>
+            <li><a href="topiclist.php?f=476">金門縣</a></li>
+            <li><a href="topiclist.php?f=477">連江縣</a></li>
+          </ul>
+        </li>
+        <li><a href="topiclist.php?f=356">房地產資訊</a></li>
+        <li><a href="topiclist.php?f=335">居家修繕</a></li>
+        <li><a href="topiclist.php?f=728">清掃家電</a></li>
+        <li><a href="topiclist.php?f=729">廚房家電</a></li>
+        <li><a href="topiclist.php?f=730">洗濯家電</a></li>
+        <li><a href="topiclist.php?f=731">空調家電</a></li>
+        <li><a href="topiclist.php?f=168">生活家電</a></li>
+        <li><a href="topiclist.php?f=360">空間設計與裝潢</a></li>
+        <li><a href="topiclist.php?f=578">庭院園藝樂</a></li>
+        <li><a href="topiclist.php?f=635">木工DIY</a></li>
+        <li><a href="topiclist.php?f=602">料理與食譜</a></li>
+        <li><a href="topiclist.php?f=400">消費經驗分享</a></li>
+      </ul>
+    </li>
+    <li><a href="category.php?id=11">女性</a>
+      <ul>
+        <li><a href="forumtopic.php?c=27">女性綜合討論區</a></li>
+        <li><a href="topiclist.php?f=371">五顏六色秀彩妝</a></li>
+        <li><a href="topiclist.php?f=372">光鮮亮麗玩保養</a></li>
+        <li><a href="topiclist.php?f=373">時尚流行新鮮話</a></li>
+        <li><a href="topiclist.php?f=374">星座占卜小魔女</a></li>
+        <li><a href="topiclist.php?f=375">媽媽寶寶親子</a></li>
+        <li><a href="topiclist.php?f=215">魔女悄悄話</a></li>
+      </ul>
+    </li>
+    <li><a href="category.php?id=17">時尚</a>
+      <ul>
+        <li><a href="forumtopic.php?c=31">時尚綜合討論區</a></li>
+        <li><a href="forumtopic.php?c=31&s=44">典藏腕時計</a>
+          <ul>
+            <li><a href="topiclist.php?f=706">Audemars Piguet</a></li>
+            <li><a href="topiclist.php?f=707">Breitling</a></li>
+            <li><a href="topiclist.php?f=708">Cartier</a></li>
+            <li><a href="topiclist.php?f=709">Casio</a></li>
+            <li><a href="topiclist.php?f=710">Citizen</a></li>
+            <li><a href="topiclist.php?f=776">GARMIN</a></li>
+            <li><a href="topiclist.php?f=711">IWC</a></li>
+            <li><a href="topiclist.php?f=712">Longines</a></li>
+            <li><a href="topiclist.php?f=713">Mido</a></li>
+            <li><a href="topiclist.php?f=714">Omega</a></li>
+            <li><a href="topiclist.php?f=715">Oris</a></li>
+            <li><a href="topiclist.php?f=716">Panerai</a></li>
+            <li><a href="topiclist.php?f=717">Patek Philippe</a></li>
+            <li><a href="topiclist.php?f=718">Rolex</a></li>
+            <li><a href="topiclist.php?f=719">Seiko</a></li>
+            <li><a href="topiclist.php?f=721">Tissot</a></li>
+            <li><a href="topiclist.php?f=720">Zenith</a></li>
+            <li><a href="topiclist.php?f=376">腕錶綜合討論</a></li>
+          </ul>
+        </li>
+        <li><a href="topiclist.php?f=595">帽子與眼鏡</a></li>
+        <li><a href="topiclist.php?f=596">外套與上衣</a></li>
+        <li><a href="topiclist.php?f=597">褲款大搜查</a></li>
+        <li><a href="topiclist.php?f=598">鞋靴樂收藏</a></li>
+        <li><a href="topiclist.php?f=599">包包大集合</a></li>
+        <li><a href="topiclist.php?f=600">飾品與配件</a></li>
+        <li><a href="topiclist.php?f=301">造型與保養</a></li>
+        <li><a href="topiclist.php?f=302">潮流與時尚</a></li>
+        <li><a href="topiclist.php?f=744">消費經驗分享</a></li>
+      </ul>
+    </li>
+    <li><a href="category.php?id=18">運動</a>
+      <ul>
+        <li><a href="forumtopic.php?c=33">運動綜合討論區</a></li>
+        <li><a href="topiclist.php?f=642">籃球</a></li>
+        <li><a href="topiclist.php?f=643">棒壘球</a></li>
+        <li><a href="topiclist.php?f=644">足球</a></li>
+        <li><a href="topiclist.php?f=645">網球</a></li>
+        <li><a href="topiclist.php?f=726">羽球</a></li>
+        <li><a href="topiclist.php?f=646">高爾夫球</a></li>
+        <li><a href="topiclist.php?f=558">慢跑</a></li>
+        <li><a href="topiclist.php?f=647">游泳</a></li>
+        <li><a href="topiclist.php?f=648">潛水</a></li>
+        <li><a href="topiclist.php?f=639">鐵人三項</a></li>
+        <li><a href="topiclist.php?f=696">桌球</a></li>
+        <li><a href="topiclist.php?f=697">健身重訓</a></li>
+        <li><a href="topiclist.php?f=698">衝浪</a></li>
+        <li><a href="topiclist.php?f=705">滑雪</a></li>
+        <li><a href="topiclist.php?f=293">其他運動</a></li>
+        <li><a href="topiclist.php?f=739">運動型穿戴裝置</a></li>
+        <li><a href="topiclist.php?f=649">消費經驗分享</a>
+      </ul>
+    </li>
+    <li><a href="category.php?id=16">戶外</a>
+      <ul>
+        <li><a href="forumtopic.php?c=3">戶外綜合討論區</a></li>
+        <li><a href="topiclist.php?f=628">登山與健行</a></li>
+        <li><a href="topiclist.php?f=579">享受釣遊樂</a></li>
+        <li><a href="topiclist.php?f=641">露營野炊樂</a></li>
+        <li><a href="topiclist.php?f=650">手電筒與照明</a></li>
+        <li><a href="topiclist.php?f=777">戶外手持GPS裝置</a></li>
+        <li><a href="topiclist.php?f=778">其他戶外活動</a></li>
+      </ul>
+    </li>
+    <li><a href="category.php?id=9">生活</a>
+      <ul>
+        <li><a href="forumtopic.php?c=25">生活綜合討論區</a></li>
+        <li><a href="topiclist.php?f=368">遙控與模型</a></li>
+        <li><a href="topiclist.php?f=181">逸品博覽會</a></li>
+        <li><a href="topiclist.php?f=290">動物與寵物</a></li>
+        <li><a href="topiclist.php?f=330">健康與養生</a></li>
+        <li><a href="topiclist.php?f=580">品酩享微醺</a></li>
+        <li><a href="topiclist.php?f=625">漫畫與動畫</a></li>
+        <li><a href="topiclist.php?f=594">閱讀與創作</a></li>
+        <li><a href="topiclist.php?f=602">料理與食譜</a></li>
+        <li><a href="topiclist.php?f=640">就愛咖啡香</a></li>
+        <li><a href="topiclist.php?f=779">品茗賞壺趣</a></li>
+        <li><a href="topiclist.php?f=601">惡魔島</a></li>
+      </ul>
+    </li>
+    <li><a href="forumtopic.php?c=35">閒聊</a>
+      <ul>
+        <li><a href="forumtopic.php?c=35">閒聊綜合討論區</a></li>
+        <li><a href="topiclist.php?f=291">投資與理財</a></li>
+        <li><a href="topiclist.php?f=37">閒聊與趣味</a></li>
+        <li><a href="topiclist.php?f=292">兩性與感情</a></li>
+        <li><a href="topiclist.php?f=637">軍事迷基地</a></li>
+        <li><a href="topiclist.php?f=651">職場甘苦談</a></li>
+        <li><a href="topiclist.php?f=747">創業夢想家</a></li>
+      </ul>
+    </li>
+    <li><a href="forumtopic.php?c=36">時事</a>
+      <ul>
+        <li><a href="forumtopic.php?c=36">時事綜合討論區</a></li>
+        <li><a href="topiclist.php?f=638">台灣新聞</a></li>
+        <li><a href="topiclist.php?f=780">國際新聞</a></li>
+        <li><a href="topiclist.php?f=781">兩岸新聞</a></li>
+        <li><a href="topiclist.php?f=782">民意調查</a></li>
+     </ul>
+    </li>
+    <li><a href="waypoint.php">旅遊美食</a>
+      <ul>
+        <li><a href="waypointforumtopic.php">旅遊美食綜合討論區</a></li>
+        <li><a href="#">北部地區</a>
+          <ul>
+            <li><a href="waypointtopiclist.php?f=188">基隆市</a></li>
+            <li><a href="waypointtopiclist.php?f=189">台北市</a></li>
+            <li><a href="waypointtopiclist.php?f=190">新北市</a></li>
+            <li><a href="waypointtopiclist.php?f=191">桃園市</a></li>
+            <li><a href="waypointtopiclist.php?f=192">新竹市</a></li>
+            <li><a href="waypointtopiclist.php?f=193">新竹縣</a></li>
+            <li><a href="waypointtopiclist.php?f=194">苗栗縣</a></li>
+          </ul>
+        </li>
+        <li><a href="#">中部地區</a>
+          <ul>
+            <li><a href="waypointtopiclist.php?f=195">台中市</a></li>
+            <li><a href="waypointtopiclist.php?f=197">彰化縣</a></li>
+            <li><a href="waypointtopiclist.php?f=198">南投縣</a></li>
+            <li><a href="waypointtopiclist.php?f=199">雲林縣</a></li>
+            <li><a href="waypointtopiclist.php?f=200">嘉義市</a></li>
+            <li><a href="waypointtopiclist.php?f=201">嘉義縣</a></li>
+          </ul>
+        </li>
+        <li><a href="#">南部地區</a>
+          <ul>
+            <li><a href="waypointtopiclist.php?f=202">台南市</a></li>
+            <li><a href="waypointtopiclist.php?f=204">高雄市</a></li>
+            <li><a href="waypointtopiclist.php?f=206">屏東縣</a></li>
+          </ul>
+        </li>
+        <li><a href="#">東部與外島</a>
+          <ul>
+            <li><a href="waypointtopiclist.php?f=207">台東縣</a></li>
+            <li><a href="waypointtopiclist.php?f=208">花蓮縣</a></li>
+            <li><a href="waypointtopiclist.php?f=209">宜蘭縣</a></li>
+            <li><a href="waypointtopiclist.php?f=210">澎湖縣</a></li>
+            <li><a href="waypointtopiclist.php?f=211">金門縣</a></li>
+            <li><a href="waypointtopiclist.php?f=212">連江縣</a></li>
+          </ul>
+        </li>
+        <li><a href="#">海外地區</a>
+          <ul>
+            <li><a href="waypointtopiclist.php?f=404">中國港澳</a></li>
+            <li><a href="waypointtopiclist.php?f=405">東北亞</a></li>
+            <li><a href="waypointtopiclist.php?f=406">東南亞</a></li>
+            <li><a href="waypointtopiclist.php?f=407">紐澳</a></li>
+            <li><a href="waypointtopiclist.php?f=408">歐洲</a></li>
+            <li><a href="waypointtopiclist.php?f=409">美洲</a></li>
+            <li><a href="waypointtopiclist.php?f=410">南亞</a></li>
+            <li><a href="waypointtopiclist.php?f=411">西亞</a></li>
+            <li><a href="waypointtopiclist.php?f=412">非洲</a></li>
+          </ul>
+        </li>
+        <li><a href="waypointtopiclist.php?f=699">航空翱翔</a></li>
+        <li><a href="waypointtopiclist.php?f=700">交通運輸</a></li>
+        <li><a href="waypointtopiclist.php?f=701">租車經驗</a></li>
+        <li><a href="waypointtopiclist.php?f=702">電信漫遊</a></li>
+        <li><a href="waypointtopiclist.php?f=703">住宿訂房</a></li>
+        <li><a href="waypointtopiclist.php?f=345">旅遊與美食綜合討論</a></li>
+      </ul>
+    </li>
+    
+    
+    
+    
+  </ul>
+</nav>
+ <br class="clear" />
+      </div>
+    </div>
+  </div>
+</div>
+
+  
+  
+         <style type="text/css">
+            .floating-ad {
+                position:fixed;
+                bottom:0;
+            }
+        </style>
+        <div class="floating-ad">
+            <script>
+                $(document).ready(function(){
+                    function checkWidth() {
+                        var screen_w = $(window).width();
+                        if (screen_w > 1000) {
+                            var r_position = parseInt((screen_w - 1000) / 2) - 100;
+                            $('.floating-ad').css('right', r_position + 'px');
+                        } else {
+                            $('.floating-ad').css('display', 'none');
+                        }
+                    }
+
+                    checkWidth();
+                    $(window).resize(checkWidth);
+                });
+
+                googletag.cmd.push(function() {
+                    googletag.defineSlot('/1019567/01PC_FloatingAD', [100, 300], 'div-gpt-ad-1527583031850-0').addService(googletag.pubads()).setTargeting("homepage", "index").setCollapseEmptyDiv(true, true);
+                    googletag.pubads().enableSingleRequest();
+                    googletag.enableServices();
+                });
+            </script>
+            <div id='div-gpt-ad-1527583031850-0'>
+                <script>
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1527583031850-0'); });
+                </script>
+            </div>
+        </div>
+  <div id="content" class="group">
+    <div id="news" class="group" style="max-height:500px;overflow:hidden;"> <div class="text-ad"><h2 class="hidden-head">廣告</h2><ul><li><a href="adredir.php?id=76240" title="廣告" target="_blank">SIENTA驚喜三重送</a></li><li><a href="adredir.php?id=76243" title="廣告" target="_blank">G8S 萬眾期待終於開賣</a></li><li><a href="adredir.php?id=76250" title="廣告" target="_blank">SUPRA經典歸來</a></li><li><a href="adredir.php?id=76259" title="廣告" target="_blank">VIOS限時47.9萬起</a></li></ul></div>
+      <div id="headline">
+        <h2 class="hidden-head">頭條新聞</h2>
+        <a href="newsdetail/30050/gigabyte-new-aero-15-oled-reviews" title="GIGABYTE New AERO 15 OLED 外型小改再出發！"> <img src="//attach2.mobile01.com/image/news/159a2aab5022877255e2fb96f77605e3.jpg" alt="GIGABYTE New AERO 15 OLED 外型小改再出發！" width="392" height="294" data-video-id=""/>
+        <h2>GIGABYTE New AERO 15 OLED 外型小改再出發！</h2>
+        <p>GIGABYTE 在今年 Computex 大展上發表全新一代 Aero 15 OLED 輕薄電競筆電，將外型進行全面更新，並重新設計筆電內部散熱系統。全新的GIGABYTE Aero 15 OLED 搭載 15.6 吋 Samsung AMOLED 4K 顯示螢幕，機身重量 2Kg...</p>
+        </a> </div>
+      <div id="article-tabs">
+        <h2 class="hidden-head">最近動態</h2>
+        <div id="tabs" class="ui-tabs">
+          <ul class="group ui-tabs-nav">
+            <li class="ui-tabs-selected"><a href="#hot-posts">熱門討論</a></li>
+            <li><a href="#new-posts">最新文章</a></li>
+          </ul>
+          <div id="hot-posts" class="group ui-tabs-panel">
+            <ul>
+              
+              <li data-id="1391475"><a href="topicdetail.php?f=356&t=5835157" title="房地產資訊">管委會的要求越來越多也越來越機車了</a></li>
+              
+              <li data-id="2788639"><a href="topicdetail.php?f=400&t=5834966" title="居家房事消費經驗分享">買房開箱意義在哪？</a></li>
+              
+              <li data-id="3286344"><a href="topicdetail.php?f=444&t=5835035" title="LUXGEN">2019年6月份LUXGEN 銷量</a></li>
+              
+              <li data-id="2710470"><a href="topicdetail.php?f=753&t=5834968" title="eMOVING">中華電車 猛虎出閘</a></li>
+              
+              <li data-id="2018174"><a href="topicdetail.php?f=238&t=5834948" title="GIGABYTE">GIGABYTE New AERO 15 OLED 外型小改再出發！</a></li>
+              
+              <li data-id="113420"><a href="topicdetail.php?f=444&t=5834857" title="LUXGEN">URX 到底在那時候推出呢？</a></li>
+              
+              <li data-id="1932489"><a href="topicdetail.php?f=294&t=5835013" title="汽機車七嘴八舌">日系suv有哪一台是能買的？</a></li>
+              
+              <li data-id="70376"><a href="topicdetail.php?f=356&t=5834882" title="房地產資訊">實價登錄2.0修法...你知道嗎？</a></li>
+              
+              <li data-id="3255747"><a href="topicdetail.php?f=266&t=5834848" title="輕型機車綜合(250cc以下)">機車選擇請益</a></li>
+              
+              <li data-id="2847691"><a href="topicdetail.php?f=566&t=5835074" title="HTC (Android)">U12+ 跟 ZenFone6的比較</a></li>
+              
+              <li data-id="404981"><a href="topicdetail.php?f=294&t=5835268" title="汽機車七嘴八舌">車禍處理請教（撞到對方，對方也生氣的打裂我擋風玻璃）</a></li>
+              
+              <li data-id="3226386"><a href="topicdetail.php?f=244&t=5834851" title="Canon單眼相機">請問相機電源開關要隨時關機嗎?</a></li>
+              
+              <li data-id="572443"><a href="topicdetail.php?f=18&t=5835185" title="行動通訊與資費">關於中華488方案</a></li>
+              
+              <li data-id="1921460"><a href="topicdetail.php?f=266&t=5835025" title="輕型機車綜合(250cc以下)">買電動機車是為了什麼？</a></li>
+              
+              <li data-id="3255244"><a href="topicdetail.php?f=709&t=5834849" title="Casio">請問一下大大有瞭解GMW-B5000系列的問題</a></li>
+              
+              <li data-id="752836"><a href="topicdetail.php?f=335&t=5835298" title="居家修繕">電燈單切改雙切開關?? (SONOFF)</a></li>
+              
+              <li data-id="1017386"><a href="topicdetail.php?f=174&t=5834932" title="自組電腦分享">自組預算15k電腦 請益看單有無問題?</a></li>
+              
+              <li data-id="363914"><a href="topicdetail.php?f=568&t=5834971" title="SAMSUNG (Android)">下一代S Pen還能怎麼玩? 三星最旗艦Galaxy Note10官方公佈8/7見</a></li>
+              
+              <li data-id="1382885"><a href="topicdetail.php?f=397&t=5834895" title="汽車消費經驗分享">換中古7~9人坐懇求指點</a></li>
+              
+              <li data-id="3145510"><a href="topicdetail.php?f=254&t=5834844" title="Sony單眼相機">【Sony 70-200/f4】北歐街頭掠影</a></li>
+              
+              <li data-id="3310436"><a href="topicdetail.php?f=18&t=5834842" title="行動通訊與資費">請教三峽這區電信收訊哪家好？</a></li>
+              
+              <li data-id="14990"><a href="topicdetail.php?f=622&t=5835266" title="電動機車綜合">【快訊】SUZUKI 也出電動機車？台鈴機車電動速可達 eReady 公開！</a></li>
+              
+              <li data-id="1997608"><a href="topicdetail.php?f=356&t=5835243" title="房地產資訊">請問管理費這樣算高嗎？</a></li>
+              
+              <li data-id="1494578"><a href="topicdetail.php?f=214&t=5835149" title="動力研究室">同樣的馬力柴油車與汽油車開起來感覺一樣嗎?</a></li>
+              
+              <li data-id="2962345"><a href="topicdetail.php?f=622&t=5835080" title="電動機車綜合">傻眼，電動機車補助越來越少，再不買真的虧很大</a></li>
+              
+              <li data-id="2731711"><a href="topicdetail.php?f=293&t=5835068" title="運動綜合">跨校拳擊賽沒人管 男大生顱內出血又失語</a></li>
+              
+              <li data-id="662090"><a href="topicdetail.php?f=347&t=5834978" title="高畫質視界">75FX770W與65FZ950W選擇困難</a></li>
+              
+              <li data-id="1075186"><a href="topicdetail.php?f=481&t=5834935" title="Mac筆記型電腦">macbook pro 2019 開賣囉</a></li>
+              
+              <li data-id="1308218"><a href="topicdetail.php?f=609&t=5834860" title="Volkswagen">關於DQ200的鋁合金材質</a></li>
+              
+              <li data-id="3357499"><a href="topicdetail.php?f=296&t=5835022" title="中央處理器">最近想組一台電腦～</a></li>
+              
+            </ul>
+            <a href="hottopics.php" class="button more"><span>more</span></a> </div>
+          <div id="new-posts" class="group ui-tabs-panel ui-tabs-hide">
+            <ul>
+              
+              <li data-id="3279615"><a href="topicdetail.php?f=578&t=5835372" title="庭院園藝樂">園藝產品回收</a></li>
+              
+              <li data-id="340255"><a href="topicdetail.php?f=731&t=5835371" title="空調家電">【實用】空調怎麼挑省電 教你快速看懂CSPF分級</a></li>
+              
+              <li data-id="1310361"><a href="topicdetail.php?f=729&t=5835370" title="廚房家電">分享，三菱電機 IH電子鍋 NJ-EXSA10JT</a></li>
+              
+              <li data-id="3102935"><a href="topicdetail.php?f=731&t=5835369" title="空調家電">室外機運轉異因請益</a></li>
+              
+              <li data-id="2331819"><a href="topicdetail.php?f=360&t=5835368" title="空間設計與裝潢">小小新人請教房間擺設-都有樑該怎麼擺才好</a></li>
+              
+              <li data-id="3389346"><a href="topicdetail.php?f=644&t=5835366" title="足球">美洲杯半決賽,南美雙雄對決壹觸即發</a></li>
+              
+              <li data-id="3384717"><a href="topicdetail.php?f=403&t=5835360" title="影音消費經驗分享">[問題]65吋打電動電視選購</a></li>
+              
+              <li data-id="524718"><a href="topicdetail.php?f=299&t=5835358" title="機殼">ARGB 炫彩 FSP CST310 小坦克玻璃透側機殼開箱</a></li>
+              
+              <li data-id="3269388"><a href="topicdetail.php?f=283&t=5835357" title="電腦遊戲">（決戰真三國）台服唯一 赤壁20兵種 最新版本!!</a></li>
+              
+              <li data-id="3098831"><a href="topicdetail.php?f=566&t=5835356" title="HTC (Android)">htc u19e更新 拍照效能</a></li>
+              
+              <li data-id="3390074"><a href="topicdetail.php?f=467&t=5835355" title="台南市">八福建設 「天晴2」準住戶群組</a></li>
+              
+              <li data-id="1559510"><a href="topicdetail.php?f=18&t=5835354" title="行動通訊與資費">美國的預付卡？</a></li>
+              
+              <li data-id="3378500"><a href="topicdetail.php?f=649&t=5835352" title="運動健身消費經驗分享">運動用太陽眼鏡大概該選什麼價位的呢?</a></li>
+              
+              <li data-id="2879406"><a href="topicdetail.php?f=350&t=5835351" title="電腦螢幕">（5分）如果筆電只支援1920x1200解析度,外接2560x1440的螢幕，結果會怎麼樣？出來的畫質會很奇怪嗎？</a></li>
+              
+              <li data-id="793295"><a href="topicdetail.php?f=302&t=5835350" title="時尚流行綜合討論">阿波羅11號登月50週年慶</a></li>
+              
+              <li data-id="3387638"><a href="topicdetail.php?f=232&t=5835349" title="Acer">要買x412還是新出的s412</a></li>
+              
+              <li data-id="3344628"><a href="topicdetail.php?f=730&t=5835346" title="洗濯家電">優必洗該買滾筒還是直立?</a></li>
+              
+              <li data-id="107108"><a href="topicdetail.php?f=562&t=5835341" title="其他影音裝置">有人有試過Windows 10的Spatial Sound嗎?</a></li>
+              
+              <li data-id="1082529"><a href="topicdetail.php?f=376&t=5835339" title="腕錶綜合討論">BALL 預購錶款</a></li>
+              
+              <li data-id="2573535"><a href="topicdetail.php?f=568&t=5835338" title="SAMSUNG (Android)">有很在意自己的三星手機有沒更新嗎</a></li>
+              
+              <li data-id="3389699"><a href="topicdetail.php?f=713&t=5835337" title="Mido">求救~~~整點的時針無法對到刻度上...</a></li>
+              
+              <li data-id="2221297"><a href="topicdetail.php?f=18&t=5835335" title="行動通訊與資費">(中部) 攜碼中華588方案分享</a></li>
+              
+              <li data-id="2711577"><a href="topicdetail.php?f=335&t=5835332" title="居家修繕">天然瓦斯考克拆不起來</a></li>
+              
+              <li data-id="1532310"><a href="topicdetail.php?f=454&t=5835329" title="台北市">房東換什麼東西房客最喜歡</a></li>
+              
+              <li data-id="3389991"><a href="topicdetail.php?f=569&t=5835328" title="Sony / SE (Android)">Xperia 10 Plus</a></li>
+              
+              <li data-id="3185709"><a href="topicdetail.php?f=375&t=5835322" title="媽媽寶寶親子">請問有推薦七個月大的寶寶 喝水的神器嗎??</a></li>
+              
+              <li data-id="2566356"><a href="topicdetail.php?f=298&t=5835321" title="顯示卡">請問INTEL內顯顯卡 有做像是NVIDIA的surround多螢幕功能嗎?</a></li>
+              
+              <li data-id="987236"><a href="topicdetail.php?f=179&t=5835320" title="其他遊戲">Uplay裡的「我的遊戲」如何刪除</a></li>
+              
+              <li data-id="3388799"><a href="topicdetail.php?f=383&t=5835319" title="iPhone">要等iphone xi 還是現在買iphone xs</a></li>
+              
+              <li data-id="895647"><a href="topicdetail.php?f=629&t=5835318" title="Huawei (Android)">P30 pro 通話録音</a></li>
+              
+            </ul>
+            <a href="newtopics.php" class="button more"><span>more</span></a> </div>
+        </div>
+        
+        <div class="ad-a2">
+            <script>
+                googletag.cmd.push(function() {
+                    googletag.defineSlot('/1019567/01首頁固定TBAR_300x100', [300, 100], 'div-gpt-ad-1478854718472-0').addService(googletag.pubads());
+                    googletag.pubads().enableSingleRequest();
+                    googletag.enableServices();
+                });
+            </script>
+            <div id='div-gpt-ad-1478854718472-0' style="height:100px; width:300px;">
+                <script>
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1478854718472-0'); });
+                </script>
+            </div>
+        </div> </div>
+      <div id="image-ads">
+        <h2 class="hidden-head">廣告</h2>
+        <div style="width:300px;height:100px;margin-bottom:5px;">
+  <div style="float:left;"><a href="topiclist.php?f=782"><img src="//attach2.mobile01.com/images/vote_btn2.jpg" width="147" height="78" border="0" alt="小惡魔民調中心" /></a></div>
+  <div style="float:right;"><a href="topicdetail.php?f=601&t=5804096"><img src="//attach2.mobile01.com/images/gift_btn2.jpg" width="147" height="78" border="0" alt="你要就來拿" /></a></div>
+  <div style="margin-top:1px;">
+    <div class="slideText" style="width:300px;height:21px;margin-bottom:5px;"><ul><li><a href="/topicdetail.php?f=350&t=5834384">讀完文章＆分享到FB，就有機會獲得三星曲面電競螢幕！</a></li><li><a href="/topicdetail.php?f=37&t=5833395">[7月]01會員獨享活動 送你 "小米手環4 彩色大螢幕運動手環"</a></li><li><a href="/topicdetail.php?f=345&t=5832244">分享景點、遊記，拿三千元禮券~</a></li><li><a href="newsdetail/30055/airconditioning-cspf-energyconservation">【實用】空調怎麼挑省電 教你快速看懂CSPF分級</a></li><li><a href="newsdetail/30053/suzuki-eready-em50x">【快訊】SUZUKI 也出電動機車？台鈴機車電動速可達 eReady 公開！</a></li></ul></div>
+    <script src="//attach2.mobile01.com/js/jquery.textslider.min.js"></script>
+    <script type="text/javascript">
+    $(document).ready(function(){
+        $(".slideText").textslider({
+            direction   : "scrollUp",
+            scrollNum   : 1,
+            scrollSpeed : 800,
+            pause       : 3000
+        });
+    });</script></div>
+</div>
+
+        
+        <div class="ad-a1">
+            <script>
+                googletag.cmd.push(function() {
+                    googletag.defineSlot('/1019567/01首頁固定TBAR_右上_300x100', [300, 100], 'div-gpt-ad-1479884292851-0').addService(googletag.pubads());
+                    googletag.pubads().enableSingleRequest();
+                    googletag.enableServices();
+                });
+            </script>
+            <div id='div-gpt-ad-1479884292851-0' style="height:100px; width:300px;">
+                <script>
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1479884292851-0'); });
+                </script>
+            </div>
+        </div>
+        
+        <div class="ad-c">
+            <script>
+                googletag.cmd.push(function() {
+                    googletag.defineSlot('/1019567/01首頁大看板_300x250', [300, 250], 'div-gpt-ad-1478755347798-0').addService(googletag.pubads());
+                    googletag.pubads().enableSingleRequest();
+                    googletag.enableServices();
+                });
+            </script>
+            <div id='div-gpt-ad-1478755347798-0' style='height:250px; width:300px;'>
+                <script>
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1478755347798-0'); });
+                </script>
+            </div>
+
+            <script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js" async="true"></script>
+            <div id="crt-3051bc58" style="width:300px;height:250px;"></div>
+            <script type="text/javascript">
+                var Criteo = Criteo || {};
+                Criteo.events = Criteo.events || [];
+                Criteo.events.push(function() {
+                    Criteo.DisplayAcceptableAdIfAdblocked({
+                        "zoneid": 810663,
+                        "containerid": "crt-3051bc58",
+                        "overrideZoneFloor": false
+                    });
+                });
+            </script>
+        </div> </div>
+    </div>
+    
+        <div id="ad-bar">
+            <script>
+                googletag.cmd.push(function() {
+                    googletag.defineSlot('/1019567/01首頁攔腰斬', [[970, 250], [1000, 120], [1000, 250]], 'div-gpt-ad-1478761238487-0').addService(googletag.pubads()).setCollapseEmptyDiv(true, true);
+                    googletag.pubads().enableSingleRequest();
+                    googletag.enableServices();
+                });
+            </script>
+            <div id='div-gpt-ad-1478761238487-0' style='width:100%;margin-top:4px;text-align:center;'>
+                <script>
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1478761238487-0'); });
+                </script>
+            </div>
+        </div>
+        <div class="ad-bar-block">
+            <script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js" async="true"></script>
+            <div id="crt-3051c040" style="width:100%;height:90px;margin-top:4px;text-align:center;"></div>
+            <script type="text/javascript">
+                var Criteo = Criteo || {};
+                Criteo.events = Criteo.events || [];
+                Criteo.events.push(function() {
+                    Criteo.DisplayAcceptableAdIfAdblocked({
+                        "zoneid": 810664,
+                        "containerid": "crt-3051c040",
+                        "overrideZoneFloor": false
+                    });
+                });
+            </script>
+        </div>
+    <div id="index-category" class="group">
+      <div class="category">
+        <div class="row group">
+          <h2 class="category-bar">
+            <a href="newslist.php">小惡魔新聞台</a>
+            <a href="newslist.php" class="more-btn">more &rsaquo;</a>
+          </h2>
+          <div class="slider" data-category-id="0">
+          
+          <div class="item" >
+            <a href="newsdetail/30055/airconditioning-cspf-energyconservation" class="group"> <img src="//attach2.mobile01.com/image/news/86ebf7b9db650d90dd468c5e39323db2.jpg" width="246" height="184" alt="【實用】空調怎麼挑省電 教你快速看懂CSPF分級" data-video-id="">
+            
+            <h3>【實用】空調怎麼挑省電 教你快速看懂CSPF分級</h3>
+            <p>今年因為搭上節能補助與家電退稅的政策紅利，不少人也想趁此機會將家中老舊耗電的冷氣進行更換，所以省電更是大家挑選空調時的首要條件。小惡魔就為大家整理目前經濟部能源局中各廠牌冷氣的CSPF數值，讓大家挑選冷氣時能夠更快速做決定！在經濟部能源局網站各廠牌空調的能源效率(CSPF）與額定冷氣消耗電功率值(kW)、年耗電量（度...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/30053/suzuki-eready-em50x" class="group"> <img src="//attach2.mobile01.com/image/news/8997e1c6680835df3a1018326e144766.jpg" width="246" height="184" alt="【快訊】SUZUKI 也出電動機車？台鈴機車電動速可達 eReady 公開！" data-video-id="">
+            
+            <h3>【快訊】SUZUKI 也出電動機車？台鈴機車電動速可達 eReady 公開！</h3>
+            <p>最近日本四大廠商動作頻繁，除了前陣子日本宣布將結盟之外，台灣也已經陸續有新款日系四大廠電動車登場，今天台鈴機車 SUZUKI 則是正式公開旗下最新電動車款「eReady」，如果對電動車非常熟悉的網友們應該知道，實際上這就是中華 EM50 系列，擁有 68kg 超輕量車身，電機規格為最大 1.35kw / 額定 0.75kw...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/30052/bmw-x6-g06-m50i" class="group"> <img src="//attach2.mobile01.com/image/news/9c1b7cb9a87bcf78ecb8c6d3053b35af.jpg" width="246" height="184" alt="【海外情報】BMW第三代X6（G06）無偽裝照片提前曝光，台灣最快於年底引進！" data-video-id="">
+            
+            <h3>【海外情報】BMW第三代X6（G06）無偽裝照片提前曝光，台灣最快於年底引進！</h3>
+            <p>近期BMW年度盛事「NEXTGen」才剛落幕，期間也發表包括全新1系列、小改款X1、8系列Gran Coupe、3系列旅行車等新產品，但其實到今年底之前，BMW還有多款新車蓄勢待發，包括預計於下個月發表的電動車iX3，以及計畫在法蘭克福車展問世的新一代X6，而原廠代號「G06」的第三代X6，無偽裝照片已提前在網路上曝...</p>
+            </a>
+          </div>
+          
+          <div class="item" style="display:none">
+            <a href="newsdetail/30051/s-pen-galaxy-note10" class="group"> <img src="//attach2.mobile01.com/image/news/cc825f287be44f9081caa6dc8e58d1ef.jpg" width="246" height="184" alt="下一代S Pen還能怎麼玩? 三星最旗艦Galaxy Note10官方公佈8/7見" data-video-id="">
+            
+            <h3>下一代S Pen還能怎麼玩? 三星最旗艦Galaxy Note10官方公佈8/7見</h3>
+            <p>八月照慣例是三星Galaxy Note發表的月份，今天三星官方就公佈，將於8/7於紐約發表新的Galaxy新品（台灣8/8凌晨4點），畫面中以一支SPen畫出圓，最後成為相機，並組合成驚嘆號的視覺來強調筆與相機兩個重點，如沒有意外，應該就是Galaxy Note10。以往Note系列都會延續一些S10系列主打的功能...</p>
+            </a>
+          </div>
+          
+          </div>
+        </div>
+        <div class="row group">
+  <h2 class="category-bar">
+    <a href="promotionlist.php">小惡魔廣編特輯</a>
+    <a href="promotionlist.php" class="more-btn">more &rsaquo;</a>
+  </h2>
+  <div class="ad_promo_slider">
+  
+  <div class="item">
+    <a href="adredir.php?id=76252" class="group"> <img class="lazy" data-src="https://attach.mobile01.com/image/mod_ad/mobile01-70c5b0d87fa07d799d15bf9cf6fe8a18.jpg" src="//attach2.mobile01.com/m01app/defaultPhoto.png" width="246" height="184" alt="廣告">
+    <h3>三星C27RG5，多方位曲面，帶玩家沉浸在遊戲的視覺真實感</h3>
+    <p>Samsang C27RG5搭載1500R曲面VA面板及採三面無邊框，視覺包覆感非常完整，首次曲面螢幕亮相</p>
+    </a>
+  </div>
+  
+  <div class="item">
+    <a href="adredir.php?id=76073" class="group"> <img class="lazy" data-src="https://attach.mobile01.com/image/mod_ad/mobile01-625f9a5679a321b35f0374118e79c05e.jpg" src="//attach2.mobile01.com/m01app/defaultPhoto.png" width="246" height="184" alt="廣告">
+    <h3>【Epson列印雙神器】OL &網美最正點開箱報告！</h3>
+    <p>想要手機自拍列印神器？還是辦公室列印利器？Epson超強列印雙神器，讓你想印就印！列印快又省、大量列印不心疼。</p>
+    </a>
+  </div>
+  
+  <div class="item">
+    <a href="adredir.php?id=76255" class="group"> <img class="lazy" data-src="https://attach.mobile01.com/image/mod_ad/mobile01-a9f5cff449ef7d67f6dc94b1cbb3d308.jpg" src="//attach2.mobile01.com/m01app/defaultPhoto.png" width="246" height="184" alt="廣告">
+    <h3>運動就靠《Galaxy Fit》幫你顧健康的好Partner</h3>
+    <p>只要有健身小夥伴 Galaxy Fit藍牙智慧手環 & Galaxy Buds無線藍牙耳機，整個城市都是你的健身房</p>
+    </a>
+  </div>
+  
+  </div>
+</div>
+
+        <div class="row group">
+          <h2 class="category-bar">
+            <a href="category.php?id=6">汽車</a>
+            <a href="category.php?id=6" class="more-btn">more &rsaquo;</a>
+          </h2>
+          <div class="slider" data-category-id="21">
+          
+          <div class="item" >
+            <a href="newsdetail/30028/ssangyong-rexton-suv-offroad" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/347b0ebf6b127dd33f2902e56551d380.jpg" width="246" height="184" alt="SsangYong大改款Rexton試駕 質感大幅精進的七座硬漢" data-video-id="">
+            
+            <h3>SsangYong大改款Rexton試駕 質感大幅精進的七座硬漢</h3>
+            <p>在200萬元預算內想找一款七人座車型又具備強悍Off-road能力的SUV選擇不多，但新一代SsangYong Rexton就是這樣的車款。Rexton擁有嶄新外觀、豪華內裝、豐富配備，裡裡外外都令人耳目一新，但請放心，它的骨子裡則依舊是之前大家熟悉的那位越野硬漢！聽到「Rexton」之名想必很多人都不陌生，這款SsangYong...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29995/hyundai-elantra-facelift-na-smartsense-taiwan-testdrive" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/2277d8f9f8cfe660f63e3cd28d2d0677.jpg" width="246" height="184" alt="Hyundai小改款Elantra 1.6旗艦版試駕 配備智慧駕駛輔助的優質代步選！" data-video-id="">
+            
+            <h3>Hyundai小改款Elantra 1.6旗艦版試駕 配備智慧駕駛輔助的優質代步選！</h3>
+            <p>於本週正式發表的Hyundai Elantra小改款車系，標準版Elantra與性能版Elantra Sport同步登場，亮點不僅是徹底改造的車頭與車尾外觀造型，小改款Elantra亦將時下新車逐漸標配的SmartSense安全科技輔助配備導入配備清單當中，70.9萬元中階車型便可擁有這項配備，可說是這次Elantra...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29975/mazda-mazda3-skyactiv" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/64feb7b823ca37e43706034fa7cff36a.jpg" width="246" height="184" alt="New Mazda 3開發秘辛大公開！ 一次看完不為人知的設計細節" data-video-id="">
+            
+            <h3>New Mazda 3開發秘辛大公開！ 一次看完不為人知的設計細節</h3>
+            <p>在這次New Mazda 3的媒體試駕活動中，原廠在行前為與會媒體準備了豐富的簡報以闡述新車型的進化，不過礙於篇幅，我們無法將所有簡報資料於新車試駕報導中完整呈現，因此我們將這些簡報再加入之前原廠發佈的技術資料規劃了此篇報導，讓大家能更瞭解新一代Mazda 3的設計理念與開發時許多不為人知的細節，並體會Mazda在開...</p>
+            </a>
+          </div>
+          
+          <div class="item" style="display:none">
+            <a href="newsdetail/29974/mazda-3" class="group"> <img class="lazy" data-lazy="//attach2.mobile01.com/image/news/7a447b85fce92635a80a98252bd6b15f.jpg" width="246" height="184" alt="Mazda 3 全新第四代試駕：站上全新高度的嶄新格局" data-video-id="">
+            
+            <h3>Mazda 3 全新第四代試駕：站上全新高度的嶄新格局</h3>
+            <p>Mazda 3 年輕前衛的設計受到追捧，一直是國內年輕人高度注目也喜愛的車款，歐化操控更使品牌形象向舒適化靠攏許多。如今第四代車型推出，延續人馬一體、SKYACTIV工藝、魂動設計理念，並加入更多日式奢華元素，並用日式減法美學、人因工程，跳脫過往定位躍進新時代。大家應該可以發現，車廠為了讓新一代車款有更鮮明的進步和競...</p>
+            </a>
+          </div>
+          
+          </div>
+        </div>
+        <div class="row group">
+          <h2 class="category-bar">
+            <a href="category.php?id=4">手機</a>
+            <a href="category.php?id=4" class="more-btn">more &rsaquo;</a>
+          </h2>
+          <div class="slider" data-category-id="16">
+          
+          <div class="item" >
+            <a href="newsdetail/29997/oppo-reno-z" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/2a3b28c9ccb1bdb9c9be6dfd309999fc.jpg" width="246" height="184" alt="自拍特化的OPPO Reno Z試用 效能與平價是兼顧還是擇一？" data-video-id="">
+            
+            <h3>自拍特化的OPPO Reno Z試用 效能與平價是兼顧還是擇一？</h3>
+            <p>Reno 系列可說是 OPPO 今年的大重點產品，原先規劃是會橫跨原有 R17 Pro 以及 Find X 的中高、旗艦產品線，而在 Reno Z 出現後，次階一些的規格便也就此囊括。Reno Z 以「標配」的水滴瀏海代替真&middot;全螢幕與升降前鏡頭，處理器也是聯發科 Helio P90 八核心的首發機型，並...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29985/line-conference-2019" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/63e3fb0a1d444a2b876ea9d43c1d0301.jpg" width="246" height="184" alt="金融起來、貼圖將有月費制！LINE CONFERENCE 2019多樣新服務登場" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>金融起來、貼圖將有月費制！LINE CONFERENCE 2019多樣新服務登場</h3>
+            <p>每年此時都會在日本發表新功能大集合的 LINE，於今（6/27）日也假千葉縣浦安市的圓形劇場舉辦本年度的 LINE CONFERENCE 2019。有別以往都會有硬體產品，今年著重的地方反而是生活相關如社群、網紅互動服務之餘；近幾年主打的 FinTech（金融科技）也有類似會員的積分點數，並可搭配小額貸款等新功能登場...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29942/realme3-pro" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/90417e2b684b1e8ac50a4cc6a143f3e4.jpg" width="246" height="184" alt="realme 3 Pro 專注效能的高性價比之選" data-video-id="">
+            
+            <h3>realme 3 Pro 專注效能的高性價比之選</h3>
+            <p>身為 OPPO 子品牌的 realme，經歷好一段時間後終於在台灣引進自家的 S710 機種 realme 3 Pro，最大的賣點無非在一定規格下卻最低僅七千有找的售價。當然中高級距的產品競爭，可不是便宜就能稱霸，不然大家都選最便宜的就好啦？但 realme 3 Pro 就算不跟其他家的 S710 手機比，光拿 OPPO...</p>
+            </a>
+          </div>
+          
+          <div class="item" style="display:none">
+            <a href="newsdetail/29916/mi-band-4-hands-on" class="group"> <img class="lazy" data-lazy="//attach2.mobile01.com/image/news/339745e1a53d7ef121afbed001fc5126.jpg" width="246" height="184" alt="小米手環4 你關心問題試用(更新加上搭iOS)：亮度、彩色螢幕、通知、共用..." data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>小米手環4 你關心問題試用(更新加上搭iOS)：亮度、彩色螢幕、通知、共用...</h3>
+            <p>台灣下週二(6/25)就會發布小米手環4上市訊息，不過實在太好奇小米手環4跟3有何不同? 彩色螢幕長怎樣之類的問題，於是我也先從網路上買了一支標準版的小米手環4，這兒就來開箱跟試一些基本功能看看，但現在有點後悔為什麼不買NFC版的來試試跟台灣小愛同學通不通Orz外盒跟小米手環3後來的新裝一樣，是比較薄但比較長的紙盒...</p>
+            </a>
+          </div>
+          
+          </div>
+        </div>
+        <div class="row group">
+          <h2 class="category-bar">
+            <a href="category.php?id=10">居家</a>
+            <a href="category.php?id=10" class="more-btn">more &rsaquo;</a>
+          </h2>
+          <div class="slider" data-category-id="26">
+          
+          <div class="item" >
+            <a href="newsdetail/30027/2019-xqh-c030-airpurifiers" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/3c3e09520c1ba5023667ccff93f0ce84.jpg" width="246" height="184" alt="【2019空氣清淨機】極簡美型 正負零 ±0 空氣清淨機 XQH-C030評測" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>【2019空氣清淨機】極簡美型 正負零 ±0 空氣清淨機 XQH-C030評測</h3>
+            <p>正負零今年新上市的空氣清淨機 XQH-C030，機身外型有所突破，採用環型中空的鐵製框架製成 360 度零死角的機身結合懸浮型濾網結構，增強進氣範圍與出風量。這台空氣清淨機與市面上品牌的最大區隔在於功能更簡化，更容易使用且更具美感。XQH-C030 甚至還榮獲2019 iF紅點產品設計獎的肯定呢！&plusmn;0空...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29989/dyson-supersonic-hairdryer" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/53b86e8c9b8ee79f160b78d21a865a32.jpg" width="246" height="184" alt="頭髮更美更健康！新一代神級吹風機Dyson Supersonic登場" data-video-id="">
+            
+            <h3>頭髮更美更健康！新一代神級吹風機Dyson Supersonic登場</h3>
+            <p>Dyson Supersonic 自 2016 年發布以來一直都是吹風機市場的話題代表，時隔三年，Dyson 今日(6/26)則在北京舉辦新一代 Dyson Supersonic 發布會，帶大家從健康髮質與便利造型的角度再次溝通Dyson Supersonic 的設計理念。新一代Dyson Supersonic 延續...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29912/airconditioning-panasonic-px36-nanoex" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/1666ab3e0b1360d0f6b0bbd8e5d1919d.jpg" width="246" height="184" alt="【實測】健康淨化又省電 Panasonic PX36 頂級旗艦冷暖空調" data-video-id="">
+            
+            <h3>【實測】健康淨化又省電 Panasonic PX36 頂級旗艦冷暖空調</h3>
+            <p>在炎炎夏日裡，冷氣真的是最最重要的家電了！但整天開冷氣大家是不是也會擔心電費暴增呢？小編今天就有機會實際測試Panasonic 頂級旗艦冷暖空調 PX36 在夏季實際運轉究竟會耗電多少？順便帶大家看看今年 Panasonic 最新推出CSPF數值高達7.83的新款空調有哪些特色，除了省電外還能讓室內空氣更潔淨，夏天裡...</p>
+            </a>
+          </div>
+          
+          <div class="item" style="display:none">
+            <a href="newsdetail/29886/fb2352r-dc" class="group"> <img class="lazy" data-lazy="//attach2.mobile01.com/image/news/462b42b65a9ab73ee9ae0f6d525599cb.jpg" width="246" height="184" alt="艾美特 FB2352R  DC 直流馬達循環扇 讓屋內空氣動起來" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>艾美特 FB2352R  DC 直流馬達循環扇 讓屋內空氣動起來</h3>
+            <p>炎炎夏日，又到了想要慵懶的躺在沙發上開冷氣睡午覺的季節，想要提高空調的冷房效率與節能省電，可以考慮搭配循環扇與冷氣一同使用，能更快速讓室內空氣產生循環對流。因為夏天的風扇需求大增，有不少人猶豫到底該買循環扇還是電風扇，所以廠商端出了新款循環扇結合DC 直流馬達與廣角擺頭。艾美特於近日推出的 DC 直流馬達節能遙控循環...</p>
+            </a>
+          </div>
+          
+          </div>
+        </div>
+        <div class="row group">
+          <h2 class="category-bar">
+            <a href="category.php?id=5">相機</a>
+            <a href="category.php?id=5" class="more-btn">more &rsaquo;</a>
+          </h2>
+          <div class="slider" data-category-id="20">
+          
+          <div class="item" >
+            <a href="newsdetail/29999/tamron-sp-35mm-f1-4-di-usd-model-f045" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/fe2d8770ca25026cdb629a736c387960.jpg" width="246" height="184" alt="Tamron SP 35mm f/1.4 Di USD（Model F045）集自家光學大成 打造經典大光圈鏡頭！" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>Tamron SP 35mm f/1.4 Di USD（Model F045）集自家光學大成 打造經典大光圈鏡頭！</h3>
+            <p>大光圈定焦鏡的選擇眾多，其中 35mm 可說是許多攝影玩家最愛的焦段之一，因為低變形率加上近可攻退可守的構圖優勢，搭配 f/1.4 的光圈更是能輕易創造迷人的散景；Tamron SP 以 40 週年為名推出的紀念鏡 SP 35mm f/1.4 Di USD（MODEL F045）正是近期最受注目的大光圈定焦鏡，它可說...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29978/profoto-b10b10-plus" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/cf5eeda9a65805a7b4516327fe4a4006.jpg" width="246" height="184" alt="【開箱】Profoto B10/B10 Plus 滿足你對外拍燈的所有想望" data-video-id="">
+            
+            <h3>【開箱】Profoto B10/B10 Plus 滿足你對外拍燈的所有想望</h3>
+            <p>去年Profoto發表了B10，以超小型外拍燈之姿降臨，滿足了不少追求輕巧攝影師的需求。本來以為Profoto就打算以這個產品打天下，沒想到在上個月他們推出了B10 Plus，一樣追求輕巧、聰明，但瓦數更大，它們的功能真的是我想得到、我想不到的都做進去了，非常出色的產品。這次小編馬上借了B10與全新的B10 Plus...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29923/vr3d-insta360-evo" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/711485f14f3b6a3f7c0b8a89fefe7a22.jpg" width="246" height="184" alt="可摺疊的VR/3D相機 Insta360 EVO 舉目所見都是趣味" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>可摺疊的VR/3D相機 Insta360 EVO 舉目所見都是趣味</h3>
+            <p>相機種類千奇百怪，但你看過可以摺疊、前後拍攝的相機嗎？Insta360 EVO就是。當它對折起來的時候可以拍攝VR環景，但當它把兩顆鏡頭都對著同一個方向的時候，卻可以拍攝3D畫面。小編使用時覺得相當驚豔，如果同時對拍攝VR與3D影像有興趣的話，Insta360 EVO相機是個有趣的選擇！ 外觀介紹在360相機界頗受好...</p>
+            </a>
+          </div>
+          
+          <div class="item" style="display:none">
+            <a href="newsdetail/29868/zeiss-otus-1-4-100-review" class="group"> <img class="lazy" data-lazy="//attach2.mobile01.com/image/news/19b653eb955efd88e8b6b4acbb3543f9.jpg" width="246" height="184" alt="Zeiss Otus 1.4/100 傲視同級｜望遠鏡頭新標竿！" data-video-id="">
+            
+            <h3>Zeiss Otus 1.4/100 傲視同級｜望遠鏡頭新標竿！</h3>
+            <p>Zeiss Otus 系列自 2013 年問世以來，依序推出 1.4/55、1.4/28、1.4/85 這幾顆大光圈定焦鏡，且獲得許多專業攝影師與影像工作者的熱烈好評，今年 Zeiss 趁勝追擊發表該系列的首顆望遠鏡 1.4/100，同樣強調極致的光學表現，採用 APO 複消色差設計與 Sonnar 光學結構，不論是...</p>
+            </a>
+          </div>
+          
+          </div>
+        </div>
+        <div class="row group">
+          <h2 class="category-bar">
+            <a href="category.php?id=13">機車</a>
+            <a href="category.php?id=13" class="more-btn">more &rsaquo;</a>
+          </h2>
+          <div class="slider" data-category-id="29">
+          
+          <div class="item" >
+            <a href="newsdetail/30030/shark-drak-sanctus-helmets" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/32853f8b85826e7d6fae3dcccff6885a.jpg" width="246" height="184" alt="SHARK DRAK Sanctus Mat 造型帽開箱 個性帽款捨我其誰" data-video-id="">
+            
+            <h3>SHARK DRAK Sanctus Mat 造型帽開箱 個性帽款捨我其誰</h3>
+            <p>安全帽不只是保護騎士頭部的部品，在越來越注重個人形象的風氣之下，摩托車騎士人身部品也成為了個人品味的展現方式，法國安全帽品牌 SHARK 所推出的 DRAK 就是非常具有代表性的款式，利用四分之三帽與面罩的搭配呈現出不同於一般安全帽的風格，也成為許多喜歡個性化部品騎士喜愛的選項。SHARK Helmets 是來自法國...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29998/elf-synthese16-boots" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/38e753b4a6714264f310d40b48ab933c.jpg" width="246" height="184" alt="elF SYNTHESE 16 通勤用車靴開箱 更貼近日常使用的新選擇" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>elF SYNTHESE 16 通勤用車靴開箱 更貼近日常使用的新選擇</h3>
+            <p>SYNTHESE 16 是 elF footwear 最新推出的摩托車騎士靴，不同於多數車靴穿起來會有走路不舒適的問題，SYNTHESE 16 採用低鞋筒設計，再利用類似運動鞋的內裏來提升舒適性，車靴表面使用日本Clarino 人造皮革材質，並在皮革表面打上數百個三角形小孔來提升透氣表現，加上方便的 BOA IP1 ...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29960/yamaha-grand-filano-hybrid" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/b61fc6deea79b8299d953328d1ddbc04.jpg" width="246" height="184" alt="YAMAHA Grand Filano Hybrid 油電混合車試駕 東協新秀省油又舒適" data-video-id="">
+            
+            <h3>YAMAHA Grand Filano Hybrid 油電混合車試駕 東協新秀省油又舒適</h3>
+            <p>這次我們針對油電混合速可達 YAMAHA Grand Filano Hybrid 進行試駕，YAMAHA 於泰國主推這款速可達，主要是因為其造型與設計都非常古典，但又不失質感，同時科技配備也盡可能全導入上車，甚至連儀錶板都有塊全彩液晶顯示區域，小編覺得 YAMAHA Grand Filano Hybrid 真是很有誠...</p>
+            </a>
+          </div>
+          
+          <div class="item" style="display:none">
+            <a href="newsdetail/29924/maxxis-mawg" class="group"> <img class="lazy" data-lazy="//attach2.mobile01.com/image/news/73645ef0a126af658886d89fbbe12a78.jpg" width="246" height="184" alt="MAXXIS MA-WG賽道試胎 多雨地區通勤更安心" data-video-id="">
+            
+            <h3>MAXXIS MA-WG賽道試胎 多雨地區通勤更安心</h3>
+            <p>騎乘機車最怕的就是時晴時雨的天氣，尤其在午後雷陣雨以及暴雨時深怕輪胎抓地力不足，以往只有進口輪胎有這種全天候取向性能胎可供選擇，但來自台灣的 MAXXIS 瑪吉斯輪胎正式推出 MA-WG 系列輪胎，在晴天擁有不錯的抓地表現，而溼地抓地力更是超過同級距競爭對手。最重要的是除了國內主流運動速可達的規格之外，接下來還會推出...</p>
+            </a>
+          </div>
+          
+          </div>
+        </div>
+        <div class="row group">
+          <h2 class="category-bar">
+            <a href="category.php?id=15">蘋果</a>
+            <a href="category.php?id=15" class="more-btn">more &rsaquo;</a>
+          </h2>
+          <div class="slider" data-category-id="30">
+          
+          <div class="item" >
+            <a href="newsdetail/29939/apple-macos-catalina-public-beta-sidecar" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/0fb75f50777c5b2b80600d39f32d3a2b.jpg" width="246" height="184" alt="體驗 Sidecar 雙螢幕功能！ Apple macOS Catalina public beta 正式上線！" data-video-id="">
+            
+            <h3>體驗 Sidecar 雙螢幕功能！ Apple macOS Catalina public beta 正式上線！</h3>
+            <p>在今年 WWDC 全球開發者大會上，Apple 發表全新的 macOS Catalina 10.15 作業系統，並同時宣佈將在今年七月推出公開測試版本，不過就在台灣時間今日（6/25）凌晨一點，Apple 就搶先釋出 macOSCatalina Public beta 公開測試版本，讓眾多的 Mac 用戶可以搶先體驗...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29699/ipados-hands-on" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/0fc4f17668b5fb475df8448577e4bc90.jpg" width="246" height="184" alt="iPadOS試玩 iPad越來越筆電了嗎?" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>iPadOS試玩 iPad越來越筆電了嗎?</h3>
+            <p>這次蘋果將iPad的作業系統，獨立命名為iPadOS（但沒有數字版本），更突顯iPad需要一套它自己的觸控、輸入跟大螢幕介面。雖然獨立命名，但本質上它還是基於iOS13，對開發者或用戶來說，它還是使用iOS App，這點倒是沒有改變，因此iOS13上新增的功能，基本上iPad也能享用。所有iPad Pro、第五代及第...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29683/watchos-6-hands-on" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/e70d106b5c422becdb3e4378b1963f4c.jpg" width="246" height="184" alt="ＷatchOS 6動手玩 帶來獨立的App Store 免手機也能安裝程式" data-video-id="">
+            
+            <h3>ＷatchOS 6動手玩 帶來獨立的App Store 免手機也能安裝程式</h3>
+            <p>不知不覺間Apple Watch的作業系統也來到第六版了，現在的Apple Watch，已經可以獨立連線，今天WatchOS 6的更新裡，個人覺得最重要的應該可以在手錶上獨立使用App Store，下載/ 安裝程式，向獨立裝置又邁進一步。這回WatchOS 6的更新除了獨立的App Store外，還包括新的錶面、健康...</p>
+            </a>
+          </div>
+          
+          <div class="item" style="display:none">
+            <a href="newsdetail/29680/iphone-ios13-hands-on" class="group"> <img class="lazy" data-lazy="//attach2.mobile01.com/image/news/3df0098ee8da452eafdad49f20cfe8e0.jpg" width="246" height="184" alt="iOS13試玩  變化都在細節中" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>iOS13試玩  變化都在細節中</h3>
+            <p>早上蘋果發佈iOS13時，提到了很多更新，但多半只提個大概，會後小編也先安裝了iOS13的開發者版本，這裡就比較具體一點來分享iOS13提到的一些新功能，雖說比較具體，但仍舊是開發版本，有些功能還沒完全釋出，這個時間點的分享也不能算完整，還請見諒。（但還是能玩到一些重點啦）這裡是以iPhone XS做更新，可能也會跟iPhone...</p>
+            </a>
+          </div>
+          
+          </div>
+        </div>
+        <div class="row group">
+          <h2 class="category-bar">
+            <a href="category.php?id=8">單車</a>
+            <a href="category.php?id=8" class="more-btn">more &rsaquo;</a>
+          </h2>
+          <div class="slider" data-category-id="24">
+          
+          <div class="item" >
+            <a href="newsdetail/30054/garmin-edge-830-edge-530-gps" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/945371234e088a43505ccd2aa2f0457d.jpg" width="246" height="184" alt="Garmin EDGE 830 & EDGE 530 GPS自行車衛星導航開箱實測" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>Garmin EDGE 830 & EDGE 530 GPS自行車衛星導航開箱實測</h3>
+            <p>GARMIN 近期一舉推出了兩款中高階的自行車衛星導航Edge 830 及 Edge 530，將新一代的 Edge 產品線補齊了。Edge 830 及 Edge 530 是一同上市，也具備同樣大小的機身，乍看之下似乎很難一眼分辨出其中的差異。以往8系列的自行車衛星導航在外型、功能及配件上會與5系列有很大的不同，然而GARMIN...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/30031/bike-adventure" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/56381d6c4029bdb194de5f1bca1196f7.jpg" width="246" height="184" alt="穿越綠廊時光隧道，探尋阿凡達千年神木~拉拉喀斯神木群" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>穿越綠廊時光隧道，探尋阿凡達千年神木~拉拉喀斯神木群</h3>
+            <p>拉拉喀斯林道，位於嘉義縣阿里山鄉特富野村，緊鄰曾文溪源頭之一的特富野溪兩岸河谷溪旁拉拉喀斯~山谷裡，鄒族語意'長滿杜鵑之地'影片1~拉拉喀斯林道(首部曲)，探尋千年神木群~影片2~拉拉喀斯林道(二部曲)，探尋千年神木群~特富野平均海拔高度八百至一千公尺，是個淳樸的大村落。庫巴是鄒族政治訓練教育中心，代表鄒族文化與歷史...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/30007/sscx-bike" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/8fc99e4316af9773529a409c682cd498.jpg" width="246" height="184" alt="SSCX單速車一日(26小時)中央山脈挑戰賽" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>SSCX單速車一日(26小時)中央山脈挑戰賽</h3>
+            <p>單速車一口氣吃完中央山脈2016年曾經挑戰過一次這條路線當時是剛考完學測正處於悠閒狀態先後挑戰了一日新東陽(新店-花東-南橫向陽)再為了6月的中央山脈挑戰賽做探路的動作就異想天開想說能不能一口氣征服三天的賽程(2016年Strava路線圖)(思源埡口41k觀景台)(晚上登武嶺)(逝去的夫妻樹)當時的時間大約是27小時...</p>
+            </a>
+          </div>
+          
+          <div class="item" style="display:none">
+            <a href="newsdetail/29980/bike-penghu" class="group"> <img class="lazy" data-lazy="//attach2.mobile01.com/image/news/9a6d9c945186cbf75095c11bc47b27af.jpg" width="246" height="184" alt="輪 到 澎 湖  馬 公 騎 遊 趣" data-video-id="">
+            
+            <h3>輪 到 澎 湖  馬 公 騎 遊 趣</h3>
+            <p>許久沒有踏上澎湖這塊土地，上次來已是十多年前的事了，印象對馬公只有中央老街及天后宮，其餘景點已經淡忘。那麼，澎湖最熱鬧的馬公除了中央老街及天后宮外，究竟還有什麼呢？趕在盛夏前夕參加「花火節」的行程，完成騎行計畫「輪到澎湖」用單車騎遊馬公市。帶著騎行馬公市區的計畫與導覽小冊，從馬公市中心出發，經澎湖魚市場、開拓館、第一...</p>
+            </a>
+          </div>
+          
+          </div>
+        </div>
+        <div class="row group">
+          <h2 class="category-bar">
+            <a href="category.php?id=3">電腦</a>
+            <a href="category.php?id=3" class="more-btn">more &rsaquo;</a>
+          </h2>
+          <div class="slider" data-category-id="17">
+          
+          <div class="item" >
+            <a href="newsdetail/30032/logitech-mx-vertical" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/b6c1ab8f90f15bed6ebec3b70ff0981e.jpg" width="246" height="184" alt="Logitech MX Vertical 可以緩解手腕疼痛問題嗎？" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>Logitech MX Vertical 可以緩解手腕疼痛問題嗎？</h3>
+            <p>自從上次寫了《羅技MX Ergo 軌跡球可以緩解手腕疼痛問題嗎？》之後，小編就一直想要試試羅技的另一款高階人體工學滑鼠MX Vertical。不過因為台灣根本沒有引進這款，所以我沒有辦法像上次一樣直接跟台灣羅技借一支。所以這次我就直接趁電腦版編輯Dennis在美國出差的時候，請他幫我帶一支回來。這篇我要來跟各位分享...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29881/adata-sx8200pro-kingston-kc2000-samsung-970evo-team-mp34-wd-sn750-nvme-ssd" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/94ac1867811e178031ba24c2fd2883fc.jpg" width="246" height="184" alt="「3000MB/s UP限定」5款NVMe M.2 SSD大比拼" data-video-id="">
+            
+            <h3>「3000MB/s UP限定」5款NVMe M.2 SSD大比拼</h3>
+            <p>隨著愈來愈多主機板開始加入NVMe M.2介面支援之後，許多使用者也開始會選擇搭配體積輕巧且傳輸速度更快的NVMe M.2 SSD固態硬碟來當作系統碟使用，於是為了讓網友們可以再選擇硬碟搭配的時候有個參考，這次也特別借來了威剛ADATA XPG SX8200 PRO、金士頓Kingston KC2000、三星Samsung...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29752/amd-ryzen9-3950x-ryzen5-3400g-ryzen3-3200g" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/bf27773b8f21e4b22f452f0524dbc54e.jpg" width="246" height="184" alt="AMD Ryzen 9 3950X 16核心處理器749美金9月上市 Ryzen 5 3400G與Ryzen 3 3200G兩款APU 7/7開賣" data-video-id="">
+            
+            <h3>AMD Ryzen 9 3950X 16核心處理器749美金9月上市 Ryzen 5 3400G與Ryzen 3 3200G兩款APU 7/7開賣</h3>
+            <p>繼COPUTEX2019 CEO Keynote之後，AMD在E3 2019開展前舉辦的NEXT HORIZON GAMING Tech Day活動上不僅公佈了許多關於第三代Ryzen處理器的架構設計細節，還發表了一款即將在九月上市的第三代Ryzen新成員- AMD Ryzen 9 3950X處理器以及Ryzen 5...</p>
+            </a>
+          </div>
+          
+          <div class="item" style="display:none">
+            <a href="newsdetail/29674/asustor-as5304t-as5202t-nas" class="group"> <img class="lazy" data-lazy="//attach2.mobile01.com/image/news/1759eef9b812842f9aab7ac241c66569.jpg" width="246" height="184" alt="華芸asustor AS5304T NAS試用 雙2.5G網路加持" data-video-id="">
+            
+            <h3>華芸asustor AS5304T NAS試用 雙2.5G網路加持</h3>
+            <p>華芸asustor在今年COMPUTEX 2019電腦展中，推出了全新的AS5304T 4Bay與AS5202T 2Bay兩款NAS網路儲存裝置。華芸asustor AS5304T與AS5202T最特別的一點就是機身上直接提供了兩組2.5Gbps網路傳輸埠，並且可支援Link Aggregation網路聚合功能，讓這...</p>
+            </a>
+          </div>
+          
+          </div>
+        </div>
+        <div class="row group">
+          <h2 class="category-bar">
+            <a href="category.php?id=17">時尚</a>
+            <a href="category.php?id=17" class="more-btn">more &rsaquo;</a>
+          </h2>
+          <div class="slider" data-category-id="31">
+          
+          <div class="item" >
+            <a href="newsdetail/30013/react-nike-air-max-270-react" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/4c1da7ca9018257a9ebb746200279a0a.jpg" width="246" height="184" alt="氣墊＆React全都要！Nike Air Max 270 React實鞋開箱分享" data-video-id="">
+            
+            <h3>氣墊＆React全都要！Nike Air Max 270 React實鞋開箱分享</h3>
+            <p>許多潮鞋玩家都說：「不能沒有氣墊鞋」，相信許多鞋迷的鞋櫃裡應該都會藏一雙Air Max系列的鞋款吧？隨著中底技術逐漸成長，Nike將旗下近期最有討論度的兩種避震中底混合，推出270氣墊、React發泡材質兼具的「Air Max 270 React」。還記得當年Nike Air Max 270推出，就以加高3.2公分的...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29943/knckff-sneaker" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/afca52a18dcea627fa4c6cfdae695f05.jpg" width="246" height="184" alt="曝曬排隊太辛苦  「三方球鞋媒合平台」KNCKFF實際操作體驗分享" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>曝曬排隊太辛苦  「三方球鞋媒合平台」KNCKFF實際操作體驗分享</h3>
+            <p>對於愛收藏球鞋的朋友來說，被限量鞋款燒到是無可避免之事，但也正因為「限量是殘酷的」，所以如何搶到限量鞋也變成一門學問了。有鑑於此，筆者特選一個「國內」新開發的三方球鞋媒合平台KNCKFF，並且實際操作使用來看看是否能實際買到想要的限量鞋。根據實際調查，發現身邊不少朋友都在臉書或拍賣網站等社群平台購買過限量球鞋（當然也...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29932/seiko-skx007-black-edition" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/3b80971efaa27237c7890030ff361f32.jpg" width="246" height="184" alt="【組錶開箱】SEIKO SKX007  純黑樣式 Black Edition" data-video-id="">
+            
+            <h3>【組錶開箱】SEIKO SKX007  純黑樣式 Black Edition</h3>
+            <p>大家好，小弟又來分享了 經過去年的SKX與SNZF分享後過了大半年又再擠出這篇[分享] SKX007 升級改裝 藍寶石 / 陶瓷圈 / 指針組[分享] SNZF17 升級改裝 藍寶石 / 陶瓷圈 / 指針組 而這篇的重點在標題已提到 就是組支SKX，而且是要黑的 所以重點有  1.能黑的都要黑  2.NH36機芯  3...</p>
+            </a>
+          </div>
+          
+          <div class="item" style="display:none">
+            <a href="newsdetail/29847/jaeger-lecoultre-polaris-automatic" class="group"> <img class="lazy" data-lazy="//attach2.mobile01.com/image/news/298f405c44628909a3d6e008c996b9af.jpg" width="246" height="184" alt="[開箱] Jaeger-LeCoultre Polaris Automatic- 運動風尚與復古優雅的結合" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>[開箱] Jaeger-LeCoultre Polaris Automatic- 運動風尚與復古優雅的結合</h3>
+            <p>(來點不一樣的錶吧!!)今天來分享一只價格親民高CP值的機械錶—積家Polaris Automatic本人對腕表的世界應該只能說是一知半解也隨波逐流，印象中JLC的品牌排名很前面，前一陣子看到SIHH錶展的報導有不少在介紹那只球體陀飛輪又西敏寺三問還有萬年曆@@，更加深我認為JLC高不可攀的印象，不過後來才發現原來入...</p>
+            </a>
+          </div>
+          
+          </div>
+        </div>
+        <div class="row group">
+          <h2 class="category-bar">
+            <a href="category.php?id=18">運動</a>
+            <a href="category.php?id=18" class="more-btn">more &rsaquo;</a>
+          </h2>
+          <div class="slider" data-category-id="33">
+          
+          <div class="item" >
+            <a href="newsdetail/30000/nike-zoom-fly-3" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/a7f3219a21c0cddfe9c7cc816c489a97.jpg" width="246" height="184" alt="敢不敢更快？全新疾速系列Nike Zoom Fly 3 開箱實跑分享" data-video-id="">
+            
+            <h3>敢不敢更快？全新疾速系列Nike Zoom Fly 3 開箱實跑分享</h3>
+            <p>時間過的真快，還記得去年筆者前往美國參加「Hood to Coast」接力賽，歸國之後帶來完整的Zoom系列頂級跑鞋實測分享，本次帶來全新升級的Nike Zoom Fly 3的實穿分享，希望能提供跑者在面對「日常訓練」和「實際比賽」時不一樣的跑鞋選擇。Nike設計研發團隊整理冠軍跑者們的意見將跑鞋進化，「Nike疾速...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29869/garmin-forerunner-945" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/8a262087852c5fed0205e16634abd76b.jpg" width="246" height="184" alt="Garmin Forerunner 945全方位鐵人腕錶 運動測試分享" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>Garmin Forerunner 945全方位鐵人腕錶 運動測試分享</h3>
+            <p>先前Garmin推出適合中階跑者的智慧運動手錶「Forerunner 245 Music」，本次全面升級的頂級旗艦系列「Forerunner 945」更是一舉跟進於近期開售。Forerunner 945 擁有最高階的跑步動態訓練功能，並且開放「一卡通」與「電子錢包」功能，還加入偵測溫度與海拔高度等環境變因的訓練模組...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29791/garmin-approach-s40-gps-golf" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/c5f80f6988ade776903d16184abac6bd.jpg" width="246" height="184" alt="懂你要的距離感 Garmin Approach S40 高爾夫 GPS 腕錶" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>懂你要的距離感 Garmin Approach S40 高爾夫 GPS 腕錶</h3>
+            <p>你打高爾夫嗎？Garmin Approach S40會是你需要的方便裝備。要下場打高爾夫球除了得有揮桿技術之外，還要掌握在球場上與洞口的距離感，到球場打球時若沒先查詢好球道的資訊，等於是臨陣磨槍就上場，儘管偶爾可以依靠桿弟/娣報距離碼數，但自己若能即時了解球道資訊肯定會更加從容。Garmin Approach S40...</p>
+            </a>
+          </div>
+          
+          <div class="item" style="display:none">
+            <a href="newsdetail/29652/garmin-forerunner-245-music" class="group"> <img class="lazy" data-lazy="//attach2.mobile01.com/image/news/8cfe7ca3a9bb0c31b600ba07db60052a.jpg" width="246" height="184" alt="雙音樂平台全面開跑  Garmin Forerunner 245 Music智慧跑錶開箱實測" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>雙音樂平台全面開跑  Garmin Forerunner 245 Music智慧跑錶開箱實測</h3>
+            <p>Garmin推出中階穿戴裝置手錶「Forerunner 245 Music」，具有中高階跑步動態與訓練功能，適合入門到中高階的專業跑者使用，同時提供型複合式運動模組，全面開放「Spotify」音樂串流。進入盛夏跑季，跑者也面臨更炎熱的環境，藉由Forerunner 245 Music的輔助可讓訓練更加寫意。以中階跑錶...</p>
+            </a>
+          </div>
+          
+          </div>
+        </div>
+        <div class="row group">
+          <h2 class="category-bar">
+            <a href="category.php?id=2">筆電</a>
+            <a href="category.php?id=2" class="more-btn">more &rsaquo;</a>
+          </h2>
+          <div class="slider" data-category-id="19">
+          
+          <div class="item" >
+            <a href="newsdetail/29977/lg-gram-17-ultraslim-notebook" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/d4a4de03e032d239745e855962a6ddc0.jpg" width="246" height="184" alt="LG gram 17 全天候待命的極致輕薄筆電" data-video-id="">
+            
+            <h3>LG gram 17 全天候待命的極致輕薄筆電</h3>
+            <p>LG 自從將旗下極致輕薄筆電 gram 系列引進台灣後，同尺寸更輕薄機身以及長時間續航力的特色受到不少消費者的關注討論，而今年 LG 又將年初於 CES 大展發表的 gram 17 極致輕薄筆電帶到台灣，這款具備 17 吋顯示螢幕，但機身尺寸為 15.6 吋，重量僅有 1.35kg 的 gram 17Z990 正式在...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29899/acer-swift7-2019-notebook" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/6e64734cad81d0e88abefcb98e68003d.jpg" width="246" height="184" alt="Acer Swift 7 2019 極致輕薄、長效續航！" data-video-id="">
+            
+            <h3>Acer Swift 7 2019 極致輕薄、長效續航！</h3>
+            <p>Acer 旗下輕薄筆電 Swift 系列，在今年迎來最新版本的 Swift 7，以具備 14 吋顯示螢幕，機身重量不到 1Kg，機身厚度僅有 1cm，受到不少消費者的高度關注。全新的 Acer Swift 7 也在近期於台灣正式上市，小編這次也為各位借來實機進行測試， Acer Swift 7 內建 Intel Core...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29861/asus-vivobook-14" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/07c955db98d9f81ca4cacca1b449a22a.jpg" width="246" height="184" alt="窄邊框輕薄雙碟機14吋 VivoBook 14 X412FL 孔雀藍" data-video-id="">
+            
+            <h3>窄邊框輕薄雙碟機14吋 VivoBook 14 X412FL 孔雀藍</h3>
+            <p>最近因為需要再添購一台移動用的筆電不過預算抓低一點不到 3 萬，就鎖定了這台主要還是價格看來看去算蠻OK的~又1.5KG而已 規格如下 Core i5-8265U 四核心 1.6GHz 超頻 3.9GHz 14 吋 FHD 1920X1080 霧面；四窄邊框 4G DDR4 /還有一個擴充插槽，最高支援12G 512G...</p>
+            </a>
+          </div>
+          
+          <div class="item" style="display:none">
+            <a href="newsdetail/29627/gigabyte-aorus-15-gaming-notebook" class="group"> <img class="lazy" data-lazy="//attach2.mobile01.com/image/news/fab8ee09f20873f76b8f8983ce3ccfa8.jpg" width="246" height="184" alt="GIGABYTE AORUS 15 搭載 240Hz、4ms 螢幕的強悍電競筆電" data-video-id="">
+            
+            <h3>GIGABYTE AORUS 15 搭載 240Hz、4ms 螢幕的強悍電競筆電</h3>
+            <p>GIGABYTE 在今年初的 CES 國際消費電子大展，發表全新的 AORUS 15 電競筆電，終於在稍早前於台灣正式開賣，這款全新的 AORUS 15 電競筆電，與先前 GIGABYTE 推出的 AERO 15 一樣搭載 MicrosoftAzure AI 人工智慧技術，透過雲端資料庫不斷的學習演算，讓系統能自動切...</p>
+            </a>
+          </div>
+          
+          </div>
+        </div>
+        <div class="row group">
+          <h2 class="category-bar">
+            <a href="category.php?id=12">影音</a>
+            <a href="category.php?id=12" class="more-btn">more &rsaquo;</a>
+          </h2>
+          <div class="slider" data-category-id="28">
+          
+          <div class="item" >
+            <a href="newsdetail/29994/panasonic-th-49gx800w-4k-hdr-led-tv" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/ae4ea352e365e3aea0b29b45a1325b28.jpg" width="246" height="184" alt="Panasonic TH-49GX800W 4K HDR LED TV 日製 HCX 晶片入魂！" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>Panasonic TH-49GX800W 4K HDR LED TV 日製 HCX 晶片入魂！</h3>
+            <p>Panasonic 在今年四月發表全新 GX800 系列 4K HDR 液晶電視，以搭載日製 HCX 影像處理晶片與台灣製造的機身為主打特色，同時具備獨家進階 6 原色 Hexa Chroma Drive Pro 色彩處理技術，支援 HDR 10+ 與 Dolby Vision 雙 HDR 影像規格，在音效部分也加入...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29964/samsung-hw-q80r-soundbar" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/dbd0db984bd95adc7bf74f24fe23b1d1.jpg" width="246" height="184" alt="【開箱】Samsung(Harman/Kardon) HW-Q80R Soundbar" data-video-id="">
+            
+            <h3>【開箱】Samsung(Harman/Kardon) HW-Q80R Soundbar</h3>
+            <p>說到底，其實只是被 Harman/Kardon 這幾個字燒到回歸主題4年前家裏重新裝修後，幾年下來最遺憾的莫過於當初為了想走極簡風，沒有規劃實體5.1 or 5.1.2配置而選擇了Yamaha Ysp-2500 Soundbar不是說它不好而是一旦你聽過更好的(實體5.1.2)，就回不去了最近本來想說來個 擴大機：YAMAHA...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29820/sony-srs-xb22-srs-xb32-wireless-spesker" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/91a0f8a72af37a63701a8d0e2b37f098.jpg" width="246" height="184" alt="Sony SRS-XB22、XB32 無線藍牙喇叭 聲光派對隨時啟動！" data-video-id="">
+            
+            <h3>Sony SRS-XB22、XB32 無線藍牙喇叭 聲光派對隨時啟動！</h3>
+            <p>先前小編為各位介紹過 Sony SRS-XB12 這款擁有輕巧機身設計，並具備IP67 防護規格、被動式振幅器與 46mm 單聲道全音域單體的無線藍牙喇叭，在這款產品推出後不久，Sony 也正式推出其它兩款 Extra Bass 系列新品，分別為 Sony SRS-XB22 與 SRS-XB32。這兩款體積更大但同樣...</p>
+            </a>
+          </div>
+          
+          <div class="item" style="display:none">
+            <a href="newsdetail/29626/sony-lspx-s2-glass-sound-speaker" class="group"> <img class="lazy" data-lazy="//attach2.mobile01.com/image/news/11a7a5308c9f3592d6871d7099560408.jpg" width="246" height="184" alt="Sony LSPX-S2 玻璃共振揚聲器 用光線點綴聲線！" data-video-id="">
+            
+            <h3>Sony LSPX-S2 玻璃共振揚聲器 用光線點綴聲線！</h3>
+            <p>還記得去年七月 Sony 推出一款簡約時尚設計的玻璃共振揚聲器 LSPX-S1，受到不少消費者的關注與討論，在今年五月 Sony 又在台灣發表全新的 LSPX-S2 玻璃共振揚聲器。身為新一代的後續機種，Sony 徹底的改變了 LSPX-S2 玻璃共振揚聲器的外型設計，同時新增支援 LDAC 藍牙傳輸高解析音質、NFC...</p>
+            </a>
+          </div>
+          
+          </div>
+        </div>
+        <div class="row group">
+          <h2 class="category-bar">
+            <a href="category.php?id=9">生活</a>
+            <a href="category.php?id=9" class="more-btn">more &rsaquo;</a>
+          </h2>
+          <div class="slider" data-category-id="25">
+          
+          <div class="item" >
+            <a href="newsdetail/30034/waypoint-shinyeh-socialplacetw" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/434762a53328e2ce6f158fea6ff00bf1.jpg" width="246" height="184" alt="【7月】小惡魔景點獨家活動 唐點小聚" data-video-id="">
+            
+            <h3>【7月】小惡魔景點獨家活動 唐點小聚</h3>
+            <p>充滿活力的夏季就是外出旅遊的最佳時機，在努力工作之餘，當然也要用力地吃喝玩樂囉趁著這樣的氛圍，與親朋好友聚在一起，為精彩人生增添更多畫面與回憶，是一定要做的事情！四處旅遊、品嚐美食之餘，最要緊的就是將旅遊與味蕾的美好記憶，轉為一篇篇的景點文章讓更多人能感受體驗到你的感動，循著你的腳步出發探險！就像電影「海灘」裡主角把...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29961/enlighteh1804-airfryer-friedbeefsteak" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/0f743635548d976f70435a1cb0d969cc.jpg" width="246" height="184" alt="小惡魔氣炸鍋料理分享：炸牛排" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>小惡魔氣炸鍋料理分享：炸牛排</h3>
+            <p>餓的時候想吃肉，牛排往往是最早想到的選項，而炸牛排感覺又比煎牛排更特別一些。炸牛排不僅能夠品嚐到牛肉的鮮美滋味，同時也可以滿足想要大啖酥炸脆皮的口腹之慾！如何在不使用油炸的方式之下烹調出保有充足肉汁與酥脆外皮的炸牛排，就是本次小惡魔氣炸鍋料理分享要挑戰的課題啦。對於氣炸鍋炸牛排這道料理有興趣的人，趕快一起來看看我們是...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29900/pengfadesign-sousvide" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/eb8b5ecc0346de1577f95aa51096424e.jpg" width="246" height="184" alt="品法舒肥機試用 來自台灣設計的料理好幫手" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>品法舒肥機試用 來自台灣設計的料理好幫手</h3>
+            <p>由台灣自主設計製造的品法舒肥機，出自三位熱愛美食的電子產品開發工程師之手，他們設計這台機器的主要目的是希望能夠讓舒肥機的操作方式變得更簡單易懂，不僅讓低溫烹調可以輕鬆融入生活當中，同時也讓料理烹調擁有更多的變化與可能性！正因如此，小編也在他們正式募資超標並且能夠維持一定產能的出貨之後，向他們商借舒肥機來進行開箱與料理...</p>
+            </a>
+          </div>
+          
+          <div class="item" style="display:none">
+            <a href="newsdetail/29883/nba-enterbay-allen-iverson-16" class="group"> <img class="lazy" data-lazy="//attach2.mobile01.com/image/news/12dee167e7013995b0fc00d283351e69.jpg" width="246" height="184" alt="NBA戰神開箱 ENTERBAY Allen Iverson 1/6公仔開箱分享" data-video-id="">
+            
+            <h3>NBA戰神開箱 ENTERBAY Allen Iverson 1/6公仔開箱分享</h3>
+            <p>近期不小心開啟「公仔」的蒐集之路，加上「籃球」是筆者最喜愛的運動，因緣際會獲得開箱ENTERBAY戰神Allen Iverson的機會。雖然說ENTERBAY推出的1:6比例Iverson的人偶並非最新力作，但是對有點年代的老球友來說，AI應該是值得入手的經典之作。1996年成為NBA歷史上最矮的選秀狀元，Allen...</p>
+            </a>
+          </div>
+          
+          </div>
+        </div>
+        <div class="row group">
+          <h2 class="category-bar">
+            <a href="category.php?id=7">遊戲</a>
+            <a href="category.php?id=7" class="more-btn">more &rsaquo;</a>
+          </h2>
+          <div class="slider" data-category-id="23">
+          
+          <div class="item" >
+            <a href="newsdetail/30029/jumpti" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/39b53a8519f7df846a6b83203f38b0e4.jpg" width="246" height="184" alt="玩的是青春年華！《JUMPTI 英雄氣泡》體驗 舊酒舊瓶也很有搞頭" data-video-id="">
+            
+            <h3>玩的是青春年華！《JUMPTI 英雄氣泡》體驗 舊酒舊瓶也很有搞頭</h3>
+            <p>手機遊戲發展至今，遊戲種類之多元想必身為玩家的大家很有感受，本次要介紹的《JUMPTI 英雄氣泡》其實採用一種相當長青的遊玩手法，也就是以消珠益智為主。有著「舊瓶」的狀況下，應該會裝點「新酒」提升新意吧？然而酒不也有越陳越香的說法嗎？本次《JUMPTI 英雄氣泡》就主打日本漫畫《週刊少年 JUMP》50 週年幾乎所有...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29817/ubisfot-watch-dogs-legion-e32019" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/99af70cab16faa5077f665c9403d9e51.jpg" width="246" height="184" alt="[E3 2019]Ubisfot Watch Dogs Legion《看門狗：自由軍團》試玩 多重角色搶救倫敦" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>[E3 2019]Ubisfot Watch Dogs Legion《看門狗：自由軍團》試玩 多重角色搶救倫敦</h3>
+            <p>Ubisoft即將在2020年3/6推出的《看門狗：自由軍團》是由曾開發過《縱橫諜海：黑名單》、《看門狗》以及《極地戰嚎》等遊戲的Ubisoft 多倫多工作室加上Ubisoft 蒙特婁、Reflections、巴黎、基輔以及布加勒斯特等各地工作室耗時四年並採用最新版本的Disrupt引擎共同開發而成，讓玩家們在這一代...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29804/ubisoft-ghost-recon-breakpoint" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/3b3071dd8499988d22060ec4a4cbd235.jpg" width="246" height="184" alt="[E3 2019]Ubisoft Ghost Recon:Breakpoint《火線獵殺：絕境》試玩 對抗戰狼重奪奧羅亞" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>[E3 2019]Ubisoft Ghost Recon:Breakpoint《火線獵殺：絕境》試玩 對抗戰狼重奪奧羅亞</h3>
+            <p>Ubisoft這次新推出的Ghost Recon:Breakpoint《火線獵殺：絕境》遊戲是由Ubisoft巴黎團隊領導全球共八個工作室製作而成，主要的遊戲發想是來自於真實的特種部隊，讓玩家可以親身體驗驚險萬分的作戰過程。這次新推出的《火線獵殺：絕境》遊戲背景是設計在太平洋中央群島之一的奧羅亞，而遊戲中的科技巨擘斯...</p>
+            </a>
+          </div>
+          
+          <div class="item" style="display:none">
+            <a href="newsdetail/29717/ps4-days-of-play-2019-playstation4" class="group"> <img class="lazy" data-lazy="//attach2.mobile01.com/image/news/73b6fc6c27fde7f0c173ebbd1a9ce6b0.jpg" width="246" height="184" alt="Days of Play 2019限量版 PlayStation4主機開箱！" data-video-id="">
+            
+            <h3>Days of Play 2019限量版 PlayStation4主機開箱！</h3>
+            <p>各位PS玩家期盼已久的6月終於來啦！今年已經是第三年舉辦的Days Of Play活動在今天展開，小編受邀前往SIET總部拍攝原創設計的2019 Days Of Play限量特別版PlayStation4主機，要在此開箱來讓大家欣賞一下！Days Of Play活動進入第三年，這次的限量版PS4主機不走去年的藍色絢彩...</p>
+            </a>
+          </div>
+          
+          </div>
+        </div>
+        <div class="row group">
+          <h2 class="category-bar">
+            <a href="category.php?id=11">女性</a>
+            <a href="category.php?id=11" class="more-btn">more &rsaquo;</a>
+          </h2>
+          <div class="slider" data-category-id="27">
+          
+          <div class="item" >
+            <a href="newsdetail/29882/iloom-linki-plus-smart-table-ringo-i-learning-chair" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/6b6b9e3ef9a6439c073d1d6d395fdc5c.jpg" width="246" height="184" alt="爸媽都想要！ iloom Linki Plus 智能書桌與 Ringo-i 專注學習兒童成長椅使用分享！" data-video-id="">
+            
+            <h3>爸媽都想要！ iloom Linki Plus 智能書桌與 Ringo-i 專注學習兒童成長椅使用分享！</h3>
+            <p>就像大多數的父母一樣，當小編自己有了小孩之後，才發現原本的兩人世界慢慢的在改變，生活重心逐漸從自己轉移到小孩身上，最近小編正遇到小孩即將邁入求學階段，一方面除了感嘆時光飛逝外，更重要的是要著手為小孩打造一個適合讀書的環境，這也就表示父母的錢包又要大失血啦！在實際走訪看過許多品牌產品，並且詢問小惡魔居家版專業編輯的意見...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29748/bluefeel-zeczec-handfan" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/fe5775744dafcb63af4ebbc5e2118c4c.jpg" width="246" height="184" alt="夏季清涼救星！超輕量韓國 BLUEFEEL 手持風扇" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>夏季清涼救星！超輕量韓國 BLUEFEEL 手持風扇</h3>
+            <p>過完端午節也代表夏天正式來臨，要在悶熱難耐的夏季出門，隨身攜帶手持風扇絕對是許多人第一選擇，今天小編為大家開箱介紹的就是來自韓國的 BLUEFEEL 手持風扇。韓國 BLUEFEEL 手持風扇特色最大特色是輕量化與續航力佳，扭轉過去手持風扇又重電力又不夠用的印象。BLUEFEEL 手持風扇充飽電後最長可連續使用 24...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29664/balllinmouse" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/2be0d0f58aed1a46029b8f6f976b7010.jpg" width="246" height="184" alt="小小兵日記 ｜ 保家衛國 從幼兒開始!" data-video-id="">
+            
+            <h3>小小兵日記 ｜ 保家衛國 從幼兒開始!</h3>
+            <p>現在幼童的活動越來越多~ 什麼五花八門的方式都見怪不怪了!這是網路看到的活動~ 目前看起來團隊應該是各縣市都有再配合舉辦!費用的部分印象2個多小時 ~ 一個幼童好像700多塊錢!依照各縣市的活動單位~ 以我們彰化為例是辦在員林的 龍燈公園!!一開始就是集合領服裝接著教官就要集合分排整隊了! 好懷念阿只差這裡的教官不要...</p>
+            </a>
+          </div>
+          
+          <div class="item" style="display:none">
+            <a href="newsdetail/29605/wmm" class="group"> <img class="lazy" data-lazy="//attach2.mobile01.com/image/news/1eb96a6c91abc75a271e66445aaad203.jpg" width="246" height="184" alt="入門款平價揹巾：WMM輕旅揹巾心得分享" data-video-id="">
+            
+            <h3>入門款平價揹巾：WMM輕旅揹巾心得分享</h3>
+            <p>因為寶寶的到來,前陣子一直都有在survey 揹巾,偶然的臉書上有看到新好爸爸阿布分享推薦WMM輕旅揹巾,看起來很不錯,看介紹影片揹的方法很簡單容易,感覺笨拙的我應該可以馬上就上手,另外重點～～價錢也親民！！！找了揹巾很久遲遲沒下手的原因就是因為很多都還是五張小朋友起跳腦波弱弱的我,二話不說就趕緊網路下單入手試試看！...</p>
+            </a>
+          </div>
+          
+          </div>
+        </div>
+        <div class="row group">
+          <h2 class="category-bar">
+            <a href="category.php?id=16">戶外</a>
+            <a href="category.php?id=16" class="more-btn">more &rsaquo;</a>
+          </h2>
+          <div class="slider" data-category-id="3">
+          
+          <div class="item" >
+            <a href="newsdetail/30041/yushan-mountain-climbing" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/ebae4f852faa611b46aec2af76e6c183.jpg" width="246" height="184" alt="昨日玉山 今日雪山 | 連續二日登上台灣最高點及次高點" data-video-id="">
+            <div class="icon-video"><img src="//attach2.mobile01.com/images/icon_video.png"></div>
+            <h3>昨日玉山 今日雪山 | 連續二日登上台灣最高點及次高點</h3>
+            <p>時間回到2019/6/20，距離上一次走玉山，是十五年前的事了；而上一次走雪山，卻只是一個星期前的事。隔天，星期五，請了假，星期四一下班就直接往塔塔加出發；333.1km的路程，花了我3個小時又32分鐘，抵達塔塔加停車場己經將近11點了。太久沒來玉山，中間還不小心開進阿里山森林遊樂區，買了門票才發現自己走錯路，感謝收...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29944/merrell-choprock-shandal" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/10c3bbaf966c5c536513384a98ba50c2.jpg" width="246" height="184" alt="水陸兩棲兼可戰！ merrell 「CHOPROCK SHANDAL」開箱實測分享" data-video-id="">
+            
+            <h3>水陸兩棲兼可戰！ merrell 「CHOPROCK SHANDAL」開箱實測分享</h3>
+            <p>由於多數版友喜歡一鞋多穿，加上近期雨日連連，水陸兩棲的輕越野鞋成為不少朋友關注的選擇，merrell針對複合式戶外活動的產品相當豐富，本次筆者帶來透氣與抓地性能出色的兩棲運動鞋「CHOPROCK SHANDAL」系列開箱，擁有輕便與舒適的特性，適合戶外愛好者於旅遊著穿。「CHOPROCK SHANDAL」系列是相當成...</p>
+            </a>
+          </div>
+          
+          <div class="item" >
+            <a href="newsdetail/29902/mountaineering" class="group"> <img class="lazy" data-src="//attach2.mobile01.com/image/news/908a30146fa2b1c0a3f8ceeac1aa510f.jpg" width="246" height="184" alt="【馬崙山】（舊旅程回憶文）" data-video-id="">
+            
+            <h3>【馬崙山】（舊旅程回憶文）</h3>
+            <p>這是〖馬崙山步道〗約5K涼亭附近，一段漂亮的柳杉林徑。（也是個人最喜歡的一段路）這次行程是好幾年前的旅程，當時忙了幾個月就完全忘記要整理，一直拖到今年才想起來這唯二的谷關七雄。找個空檔順手整理，蠻多資料也舊了，像是登山口就已經不一樣。＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊【馬崙山】，標高2305m...</p>
+            </a>
+          </div>
+          
+          <div class="item" style="display:none">
+            <a href="newsdetail/29844/mountaineering" class="group"> <img class="lazy" data-lazy="//attach2.mobile01.com/image/news/0826a97723dfe5f0696bd7a65e339e35.jpg" width="246" height="184" alt="台灣百岳全紀錄" data-video-id="">
+            
+            <h3>台灣百岳全紀錄</h3>
+            <p>各位山友大家好！從2015/09/12到2019/02/22，小弟總算是親自完成了台灣百岳這本相簿了！這裡紀錄了台灣高山百岳中，小弟自己走過留下的回憶，每個山頭各取一張代表，少數是手機紀錄，大部分是單眼紀錄，希望有機會能將每座山頭都用單眼拍下自己滿意的模樣！圖片的順序依小弟完成的順序排序！未來有比較好的代表照也會直接...</p>
+            </a>
+          </div>
+          
+          </div>
+        </div>
+        
+      </div>
+      <!-- category end -->
+      <div class="sidebar">
+        <div class="inner"> <div class="widget fast-ad">
+  <h2>小惡魔廣告快訊</h2>
+  
+  <a href="adredir.php?id=76229" target="_blank">
+  <div class="row group"> <img src="https://attach.mobile01.com/image/mod_ad/mobile01-9518c04003418d7bd73beffc0aae7d3c.jpg" width="60" height="60" border="0" alt="廣告" />
+    <p>TOYOTA大出風頭 dyson神級購車專案</p>
+  </div>
+  </a>
+  
+  <a href="adredir.php?id=76257" target="_blank">
+  <div class="row group"> <img src="https://attach.mobile01.com/image/mod_ad/mobile01-4d5f62b550ebacf1d1d6e12b810328f6.jpg" width="60" height="60" border="0" alt="廣告" />
+    <p>HP ELite系列<br />
+專業設計頂尖安全<br />
+打造全新工作模式</p>
+  </div>
+  </a>
+  
+  <a href="adredir.php?id=76207" target="_blank">
+  <div class="row group"> <img src="https://attach.mobile01.com/image/mod_ad/mobile01-661f709318ae38335fae183e2bf71a86.jpg" width="60" height="60" border="0" alt="廣告" />
+    <p>新日式奢華<br />
+ALL-NEW<br />
+MAZDA3</p>
+  </div>
+  </a>
+  
+  <a href="adredir.php?id=76266" target="_blank">
+  <div class="row group"> <img src="https://attach.mobile01.com/image/mod_ad/mobile01-64b871285b8c7bdd1783018c9c85e64f.jpg" width="60" height="60" border="0" alt="廣告" />
+    <p>VIOS汰舊換新47.9萬起，享40萬40期0利率</p>
+  </div>
+  </a>
+  
+</div>
+<div class="widget article">
+  <h2><a href="youtubevideo.php">小惡魔影片專區</a></h2>
+  
+  <a href="youtubevideoplayer.php?id=4188">
+  <div class="row"> <img class="lazy" data-src="//img.youtube.com/vi/q7aS0AU40OA/0.jpg" src="//attach2.mobile01.com/m01app/defaultPhoto.png" alt="Lexus RC F Track Edition 匠心風格獨具 輕量碳纖加身 強悍登場! 【Mobile01 小惡魔汽車週報 Vol.26】" width="166" height="125" />
+    <h3>Lexus RC F Track Edition 匠心風格獨具 輕量碳纖加身 強悍登場! 【Mobile01 小惡魔汽車週報 Vol.26】</h3>
+    <p style="word-break:break-all;">Lexus RC F Track Edition 匠心風格獨具 輕量碳纖加身 ...</p>
+  </div>
+  </a>
+  
+  <a href="youtubevideoplayer.php?id=4185">
+  <div class="row"> <img class="lazy" data-src="//img.youtube.com/vi/sGm9ItpD60Y/0.jpg" src="//attach2.mobile01.com/m01app/defaultPhoto.png" alt="「三方球鞋媒合平台」KNCKFF COM實際操作體驗分享【Mobile01】" width="166" height="125" />
+    <h3>「三方球鞋媒合平台」KNCKFF COM實際操作體驗分享【Mobile01】</h3>
+    <p style="word-break:break-all;">曝曬排隊太辛苦 「三方球鞋媒合平台」KNCKFF實際操作體驗分享https:/...</p>
+  </div>
+  </a>
+  
+  <a href="youtubevideoplayer.php?id=4184">
+  <div class="row"> <img class="lazy" data-src="//img.youtube.com/vi/CLhN4XaQV24/0.jpg" src="//attach2.mobile01.com/m01app/defaultPhoto.png" alt="小惡魔氣炸鍋「食」驗教室上菜囉，今天要分享的是炸牛排！【Mobile01】" width="166" height="125" />
+    <h3>小惡魔氣炸鍋「食」驗教室上菜囉，今天要分享的是炸牛排！【Mobile01】</h3>
+    <p style="word-break:break-all;">小惡魔氣炸鍋料理分享：炸牛排http://bit.ly/2X0fBBj#Mobile01...</p>
+  </div>
+  </a>
+  
+  <a href="youtubevideoplayer.php?id=4094">
+  <div class="row"> <img class="lazy" data-src="//img.youtube.com/vi/hCoYYLaHoCY/0.jpg" src="//attach2.mobile01.com/m01app/defaultPhoto.png" alt="DJI Osmo Action 深度評測！HERO7 Black / FDR-X3000 同台較勁！feat. 林莎 Lisa【Mobile01】" width="166" height="125" />
+    <h3>DJI Osmo Action 深度評測！HERO7 Black / FDR-X3000 同台較勁！feat. 林莎 Lisa【Mobile01】</h3>
+    <p style="word-break:break-all;">DJI Osmo Action 深度評測！HERO7 Black / FDR-X3000...</p>
+  </div>
+  </a>
+  
+  <a href="youtubevideoplayer.php?id=4091">
+  <div class="row"> <img class="lazy" data-src="//img.youtube.com/vi/uz_EnKWG6RM/0.jpg" src="//attach2.mobile01.com/m01app/defaultPhoto.png" alt="國產房車終局之戰！S5 GT225/Altis Hybrid/Focus/Elantra Sport決戰麗寶賽車場！【Mobile01 小惡魔動力研究室】" width="166" height="125" />
+    <h3>國產房車終局之戰！S5 GT225/Altis Hybrid/Focus/Elantra Sport決戰麗寶賽車場！【Mobile01 小惡魔動力研究室】</h3>
+    <p style="word-break:break-all;">即刻訂閱Mobile01影片➔  https://goo.gl/mrjis6更...</p>
+  </div>
+  </a>
+  
+</div><div class="widget article">
+  <h2><a href="tourindex.php">悅遊日本</a></h2>
+  
+  <a href="tourdetail.php?id=1723">
+  <div class="row"> <img class="lazy" data-src="//attach2.mobile01.com/attach/201812/mobile01-7828119d3fbf4f1f36c6f50ce61f3c6e.jpg" src="//attach2.mobile01.com/m01app/defaultPhoto.png" alt="【大阪府】藏身在大阪的小小韓國城－鶴橋商店街" width="166" height="125" />
+    <h3>【大阪府】藏身在大阪的小小韓國城－鶴橋商店街</h3>
+  </div>
+  </a>
+  
+  <a href="tourdetail.php?id=1722">
+  <div class="row"> <img class="lazy" data-src="//attach2.mobile01.com/attach/201812/mobile01-39eebecce292d9128c0274d54f32fb35.jpg" src="//attach2.mobile01.com/m01app/defaultPhoto.png" alt="【東京都】新橋攻略系列二：俗又大碗，小資旅人必知的新橋日式拿坡里義大利麵" width="166" height="125" />
+    <h3>【東京都】新橋攻略系列二：俗又大碗，小資旅人必知的新橋日式拿坡里義大利麵</h3>
+  </div>
+  </a>
+  
+  <a href="tourdetail.php?id=1721">
+  <div class="row"> <img class="lazy" data-src="//attach2.mobile01.com/attach/201812/mobile01-c25e62964a8515d208f735998d4ff0ac.png" src="//attach2.mobile01.com/m01app/defaultPhoto.png" alt="【東京都】沒吃過就落伍了？！「Salon de The ANGELINA」傳說中的蒙布朗" width="166" height="125" />
+    <h3>【東京都】沒吃過就落伍了？！「Salon de The ANGELINA」傳說中的蒙布朗</h3>
+  </div>
+  </a>
+  
+  <a href="tourdetail.php?id=1720">
+  <div class="row"> <img class="lazy" data-src="//attach2.mobile01.com/attach/201812/mobile01-0b25e8e549ff6a7c870c35e135b725ab.jpg" src="//attach2.mobile01.com/m01app/defaultPhoto.png" alt="【大阪府】天王寺阿倍野Q’s Mall逛街攻略大公開" width="166" height="125" />
+    <h3>【大阪府】天王寺阿倍野Q’s Mall逛街攻略大公開</h3>
+  </div>
+  </a>
+  
+  <a href="tourdetail.php?id=1719">
+  <div class="row"> <img class="lazy" data-src="//attach2.mobile01.com/attach/201812/mobile01-d84cba26a1472ab0c181bec188abb3ab.jpg" src="//attach2.mobile01.com/m01app/defaultPhoto.png" alt="【東京都】不一樣的冬季點燈　賽馬場的時光隧道" width="166" height="125" />
+    <h3>【東京都】不一樣的冬季點燈　賽馬場的時光隧道</h3>
+  </div>
+  </a>
+  
+</div>
+          <div class="widget">
+            <a href="https://line.me/R/ti/p/%40fgw0927u" target="_blank"><img src="//attach2.mobile01.com/images/line-mobile01.jpg" alt="加入好友"></a>
+          </div>
+          <div class="widget">
+            <a href="https://m.mobile01.com" target="_blank"><img src="//attach2.mobile01.com/images/m-mobile01-com.jpg" alt="m.mobile01.com"></a>
+          </div>
+          <br class="clear" />
+        </div>
+      </div>
+      <!-- sidebar end -->
+    </div>
+  </div>
+  <footer>
+<div id="footer">
+  <h2 class="hidden-head">其他連結</h2>
+  <ul>
+    <li><a href="apps.php">APP下載</a></li>
+    <li><a href="rss.php">RSS</a></li>
+    <li><a href="join.php">加入VIP會員</a></li>
+    <li><a href="forumtopic.php?c=9">站務回報</a></li>
+    <li><a href="downloads.php">檔案下載</a></li>
+    <li><a href="faq.php">常問問題集</a></li>
+    <li><a href="tos.php">服務條款</a></li>
+    <li><a href="privacy.php">隱私權政策</a></li>
+    <li><a href="proposal.php">合作與廣告</a></li>
+    <li><a href="contactus.php">聯絡我們</a></li>
+    <li><a href="jobs.php">工作機會</a></li>
+    <li><a href="memberlist.php">線上會員</a></li>
+    <li><a href="specialevent.php">活動與報導</a></li>
+    <li><a href="sitemap.php">網站地圖</a></li>
+    <li><a style="cursor:pointer;" onclick="if(typeof jQuery=='undefined'){scroll(0,0);}else{$('html,body').animate({scrollTop:0},'fast');}">回到頁首</a></li>
+  </ul>
+  <div id="rights">
+    <p>Copyright &copy; 2014 Yong Sheng Technology Co., Ltd. All rights reserved.</p>
+  </div>
+</div>
+</footer>
+ </div>
+  <div id="smartbanner-area" class="hide">
+      <div id="smbScrolling" class="hide">
+          <div class="smbScrolling-content">
+              <a href="//play.google.com/store/apps/details?id=com.mobile01.android.forum">安裝 Mobile01 app!</a>
+              <img src="//attach2.mobile01.com/m01app/groupCopy.png" data-rjs="3" class="close-img">
+          </div>
+      </div>
+  </div>
+  <script>
+  var android_app = location.href.match(/#android$/) || navigator.userAgent.match(/Android/i) != null;
+  if (android_app) {
+      $('#smartbanner-area').removeClass('hide');
+  }
+  </script>
+  <script src="//attach2.mobile01.com/js/01app/smartbanner_branch.js?v=1704240"></script>
+  <script src="https://www.gstatic.com/firebasejs/4.13.0/firebase.js"></script>
+  <script src="//attach2.mobile01.com/js/fcm.js"></script>
+</body>
+</html>
+<script type="text/javascript">
+<!--
+(function(w, d){
+  var b = d.getElementsByTagName('body')[0];
+  var s = d.createElement("script"); s.async = true;
+  var v = !("IntersectionObserver" in w) ? "8.15.2" : "10.17.0";
+  s.src = "https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/" + v + "/lazyload.min.js";
+  w.lazyLoadOptions = {};
+  b.appendChild(s);
+}(window, document));
+
+var mobilephone = (/android|webos|iphone|ipod|blackberry|iemobile|opera mini|kaios/i.test(navigator.userAgent.toLowerCase()));
+
+if (mobilephone && document.referrer.indexOf("news.google.com") != -1) {
+    document.location.href = 'https://m.mobile01.com/';
+}
+
+if (mobilephone && $.cookie("mobilewebsite") == null) {
+    var mobile = confirm('本站提供行動裝置版網站, 改以行動裝置版網站瀏覽?');
+    if (mobile == true) {
+        $.cookie("mobilewebsite", 1, { expires : 90 });
+        document.location.href = document.location.href.replace(/https?:\/\/www\.mobile01\.com\//i, 'https://m.mobile01.com/');
+    } else {
+        $.cookie("mobilewebsite", 0, { expires : 90 });
+    }
+} else if (mobilephone && $.cookie("mobilewebsite") == 1) {
+    document.location.href = document.location.href.replace(/https?:\/\/www\.mobile01\.com\//i, 'https://m.mobile01.com/');
+}
+//-->
+</script>
+
+<script type="text/javascript">
+    $('.slider').slick({
+        lazyLoad: 'ondemand',
+        variableWidth: true,
+        infinite: false,
+        slidesToShow: 3,
+        slidesToScroll: 3,
+        prevArrow: '<img src="https://attach2.mobile01.com/images/gotoleftx2.png" class="slick-prev">',
+        nextArrow: '<img src="https://attach2.mobile01.com/images/gotorightx2.png" class="slick-next">',
+    });
+
+    $(".slick-arrow").hide();
+    $(".slider").hover(function(){
+        $(this).find('.slick-arrow').show();
+        $(this).find(".slick-disabled").hide();
+        }, function(){
+        $(this).find('.slick-arrow').hide();
+    });
+
+    $('.slider').on('beforeChange', function(event, slick, currentSlide, nextSlide){
+        $(this).find(".slick-prev").show();
+        $(this).find(".slick-next").show();
+        if (nextSlide == 0) {
+            $(this).find(".slick-prev").hide();
+        }
+        if (nextSlide == 6) {
+            $(this).find(".slick-next").hide();
+        }
+
+        //ga event
+        var eventValue = nextSlide/3 + 1;
+        ga('send', 'event', 'Index News', 'slick', 'slideOffset: ' + eventValue);
+    });
+
+    $('.slider').one('swipe', function(){
+        $(this).find('.slick-next').trigger('click');
+    });
+
+    $('.slick-next').one('click',function(){
+        var this_slider = $(this).parent(".slider");
+        $(".slick-arrow").hide();
+        this_slider.find(".item:last").show();
+
+        var id = Number(this_slider.data('category-id'));
+        $.getJSON("ajax/news_slick.php?mode=index&id=" + id, function(data) {
+            if (data.meta.code == 200) {
+                var items = '';
+                $.each(data.response.news.items, function(key, val) {
+                    items += "<div class=\"item\"><a href=\"" + val.URL + "\" class=\"group\"> <img data-lazy=\"" + val.IMAGE + "\" width=\"246\" height=\"184\" alt=\"" + val.TITLE + "\">" + val.ICON_VIDEO + " <h3>" + val.TITLE + "</h3> <p>" + val.CONTENT + "</p> </a> </div>" ;
+                });
+                this_slider.slick('slickAdd',items);
+            }
+        });
+    });
+
+    var video_id = '';
+    var swf  = '';
+    $('#headline > a > img').hover(function(){
+        video_id = $(this).data("video-id");
+        if (video_id != undefined && video_id != '' && $(this).parent().find(".news-video").length == 0) {
+            swf  = '<iframe class="news-video" style="z-index:1;background-color:rgb(0,0,0);pointer-events:none;position:absolute;top:0;cursor:pointer;" width="392" height="294" src="https://www.youtube.com/embed/' + video_id + '?autoplay=1&controls=0&rel=0&mute=1&loop=1&playlist=' + video_id + '"" frameborder="0" allowfullscreen></iframe>';
+            $(this).parent().prepend(swf);
+
+            //GA
+            ga('send', 'event', 'Headline News Video', 'play', video_id + ' - index');
+        }
+    });
+
+    $("#headline > a > img").click(function() {
+        if ($("#headline > a > .news-video").length) {
+            //GA
+            ga('send', 'event', 'Headline News Video', 'click', video_id + ' - index');
+        }
+    });
+
+    $(window).scroll(function() {
+        if ($("#headline > a > .news-video").length) {
+            var headline_hight = $('#headline').outerHeight();
+            var winScroll = $(window).scrollTop();
+            if (winScroll > headline_hight) {
+                $("#headline > a > .news-video").remove();
+            }
+        }
+    });
+
+    $('.category .item > a > img').hover(function(){
+        video_id = $(this).data("video-id");
+        if (video_id != undefined && video_id != '' && $(this).parent().find(".news-video").length == 0) {
+            swf  = '<iframe class="news-video" style="z-index:1;background-color:rgb(0,0,0);pointer-events:none;position:absolute;top:0;cursor:pointer;" width="246" height="184" src="https://www.youtube.com/embed/' + video_id + '?autoplay=1&controls=0&rel=0&mute=1&loop=1&playlist=' + video_id + '"" frameborder="0" allowfullscreen></iframe>';
+            $(this).parent().prepend(swf);
+
+            //GA
+            ga('send', 'event', 'News Video', 'play', video_id + ' - index');
+        }
+    },function(){
+        $(this).parent().find(".news-video").remove();
+    });
+
+    $(".category .item > a > img").click(function() {
+        if ($(this).parent().find(".news-video").length) {
+            //GA
+            ga('send', 'event', 'News Video', 'click', video_id + ' - index');
+        }
+    });
+
+    $(document).ready(function(){
+        var cardHtml = $("#card_content").html();
+        if (cardHtml != '' && cardHtml != null && $.cookie("user_card") != 1) {
+            $.colorbox({html:cardHtml});
+            $.cookie("user_card", 1, { expires : 2 });
+
+            //GA
+            ga('send', 'event', 'User Birthday', 'read');
+        }
+        var black_arr = "";
+        if (Array.isArray(black_arr)) {
+            $("#hot-posts ul li, #new-posts ul li").each(function() {
+                var uid = $(this).attr("data-id");
+                var black_flag = black_arr.indexOf(parseInt(uid));
+                if (black_flag >= 0) {
+                    $(this).hide();
+                }
+            });
+        }
+    });
+</script>
